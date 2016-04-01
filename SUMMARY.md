@@ -19,7 +19,7 @@
    * [Local settings](LocalSettings.md)
    * [Managing DND policy settings](ManagingDND.md)
    * [Managing users]
-* [Data types, input fields and operators](InputBoxOperators)
+* [Data types, input fields and operators](InputBoxOperators.md)
 * **Related Pages** links
 * **Also see** links
 * **Other links**
