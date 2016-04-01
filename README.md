@@ -1,7 +1,5 @@
-# README
-
 # ContactLab contactplan  
-## User Interface 
+## User Interface  
 ### Version X.XX  
 # User Guide  
 
