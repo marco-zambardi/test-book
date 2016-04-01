@@ -1,6 +1,5 @@
 # Data types
 
-<<<<<<< HEAD
 Contactplan handles the following main types of data:  
 
 - String  
