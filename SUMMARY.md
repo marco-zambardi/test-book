@@ -7,4 +7,5 @@
 * [Understanding plans](UnderstandingPlans.md)
 * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
 * [Selecting a database](SelectingADatabase.md)
+* Getting started and navigating the UI
 
