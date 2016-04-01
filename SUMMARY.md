@@ -14,8 +14,8 @@
    * [Data types, input fields and operators](InputBoxOperators.md)
    * [Data types](DataTypes.md)
    * [Input field types](InputFieldTypes.md)
+   * [Operator types](OperatorTypes.md)
    * pippo
-* [Operator types](OperatorTypes.md)
 * [Managing segments](ManagingSegments.md)
 * [Viewing segments](ViewingSegments.md)
 * [Segment details](SegmentDetails.md)
