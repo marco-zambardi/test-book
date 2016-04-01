@@ -12,7 +12,7 @@
 * [Getting started and navigating the UI](NavigatingUI.md)
 * [Changing the UI display language](ChangingLanguage.md)
 * [Managing segments](ManagingSegments.md)
-* [Managing plans](ManagingPlans)
+* [Managing plans](ManagingPlans.md)
 * [Managing reports]
 * [Managing settings](ManagingSettings)
    * [Segmentation settings]
