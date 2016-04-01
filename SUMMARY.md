@@ -48,5 +48,5 @@
    * [Setting the default DND policy](SettingDefaultDND.md)
    * [Setting the default DND policy to none](SettingNoDND.md)
    * [Deleting a DND policy](DeletingDND.md)
-   * Managing users
+   * [Managing users](ManagingUsers.md)
 
