@@ -29,6 +29,4 @@
    * [Editing a segment](EditingSegment.md)
    * [Deleting a segment](DeletingSegment.md)
    * [Downloading a segment contact list](DownloadingSegmentContactList.md)
-   * Creating a new plan directly from a saved segment
-       * CreatingPlanFromSegment.md
 
