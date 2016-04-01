@@ -16,4 +16,5 @@
 * [Managing segments](ManagingSegments.md)
 * [Viewing segments](ViewingSegments.md)
 * [Segment details](SegmentDetails.md)
+* Creating new segments
 
