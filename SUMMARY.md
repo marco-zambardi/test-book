@@ -33,4 +33,5 @@
 * [Plans](plans_chapter.md)
    * [Managing plans](ManagingPlans.md)
    * [Viewing plans](ViewingPlans.md)
+   * Plan details
 
