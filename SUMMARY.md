@@ -1,59 +1,58 @@
 # Summary
 
-* [Introduction](README.md)
-* [Summary](SUMMARY.md)
+* [Introduction](README.md.md)
 
-[**Home**](Home)  
-[Copyright](Copyright)  
+[**Home**](Home.md)  
+[Copyright](Copyright.md)  
 [Glossary]  
 
 ----------
 
 **Contactplan overview**  
 
-[**Understanding contactplan**](UnderstandingContactPlan)  
-[Using the UI](UsingUI)  
-[Understanding segmentation](UnderstandingSegmentation)  
-[Understanding plans](UnderstandingPlans)  
-[Reports and dashboard analysis](ReportsAndDashboardAnalysis)  
+[**Understanding contactplan**](UnderstandingContactPlan.md)  
+[Using the UI](UsingUI.md)  
+[Understanding segmentation](UnderstandingSegmentation.md)  
+[Understanding plans](UnderstandingPlans.md)  
+[Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)  
 
 ----------
 
 **Using contactplan**  
 
-[Selecting a database](SelectingADatabase)  
-[Getting started and navigating the UI](NavigatingUI)  
-[Changing the UI display language](ChangingLanguage)  
-[**Data types, input fields and operators**](InputBoxOperators)  
-[Data types](DataTypes)  
-[Input field types](InputFieldTypes)  
-[Operator types](OperatorTypes)  
+[Selecting a database](SelectingADatabase.md)  
+[Getting started and navigating the UI](NavigatingUI.md)  
+[Changing the UI display language](ChangingLanguage.md)  
+[**Data types, input fields and operators**](InputBoxOperators.md)  
+[Data types](DataTypes.md)  
+[Input field types](InputFieldTypes.md)  
+[Operator types](OperatorTypes.md)  
 
 ----------
 
-[**Managing segments**](ManagingSegments)  
-[Viewing segments](ViewingSegments)  
-[Segment details](SegmentDetails)  
-[**Creating new segments**](CreatingNewSegments)  
-[**Creating a demographic rule**](CreatingDemographicRule)  
-[Creating a custom demographic rule](CreatingCustomDemographicRule)  
-[**Creating a digital messages rule**](CreatingDigitalMessagesRule)  
-[Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule)  
-[**Creating a purchases rule**](CreatingPurchasesRule)  
-[Creating a custom purchases rule](CreatingCustomPurchasesRule)  
-[Editing a segment](EditingSegment)  
-[Deleting a segment](DeletingSegment)  
-[Downloading a segment contact list](DownloadingSegmentContactList)  
-[Creating a new plan directly from a saved segment](CreatingPlanFromSegment)  
+[**Managing segments**](ManagingSegments.md)  
+[Viewing segments](ViewingSegments.md)  
+[Segment details](SegmentDetails.md)  
+[**Creating new segments**](CreatingNewSegments.md)  
+[**Creating a demographic rule**](CreatingDemographicRule.md)  
+[Creating a custom demographic rule](CreatingCustomDemographicRule.md)  
+[**Creating a digital messages rule**](CreatingDigitalMessagesRule.md)  
+[Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)  
+[**Creating a purchases rule**](CreatingPurchasesRule.md)  
+[Creating a custom purchases rule](CreatingCustomPurchasesRule.md)  
+[Editing a segment](EditingSegment.md)  
+[Deleting a segment](DeletingSegment.md)  
+[Downloading a segment contact list](DownloadingSegmentContactList.md)  
+[Creating a new plan directly from a saved segment](CreatingPlanFromSegment.md)  
 
 ----------
 
-[**Managing plans**](ManagingPlans)  
-[Viewing plans](ViewingPlans)  
-[Plan details](PlanDetails)  
-[**Creating new plans**](CreatingNewPlans)  
-[Editing a plan](EditingPlan)  
-[Deleting a plan](DeletingPlans)  
+[**Managing plans**](ManagingPlans.md)  
+[Viewing plans](ViewingPlans.md)  
+[Plan details](PlanDetails.md)  
+[**Creating new plans**](CreatingNewPlans.md)  
+[Editing a plan](EditingPlan.md)  
+[Deleting a plan](DeletingPlans.md)  
 
 ----------
 
@@ -61,15 +60,15 @@
 
 ----------
 
-[**Managing settings**](ManagingSettings)  
+[**Managing settings**](ManagingSettings.md)  
 [Segmentation settings]  
-[Local settings](LocalSettings)  
-[**Managing DND policy settings**](ManagingDND)  
-[Viewing DND policies](ViewingDND)  
-[**Creating a new DND policy**](CreatingNewDND)  
-[Editing a DND policy](EditingDND)  
-[Setting the default DND policy](SettingDefaultDND)  
-[Setting the default DND policy to none](SettingNoDND)  
-[Deleting a DND policy](DeletingDND)  
+[Local settings](LocalSettings.md)  
+[**Managing DND policy settings**](ManagingDND.md)  
+[Viewing DND policies](ViewingDND.md)  
+[**Creating a new DND policy**](CreatingNewDND.md)  
+[Editing a DND policy](EditingDND.md)  
+[Setting the default DND policy](SettingDefaultDND.md)  
+[Setting the default DND policy to none](SettingNoDND.md)  
+[Deleting a DND policy](DeletingDND.md)  
 [**Managing users**]  
 
