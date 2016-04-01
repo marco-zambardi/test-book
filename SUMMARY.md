@@ -39,4 +39,5 @@
    * [Deleting a plan](DeletingPlans.md)
 * [Settings](settings_chapter.md)
    * [Managing settings](ManagingSettings.md)
+   * Segmentation settings
 
