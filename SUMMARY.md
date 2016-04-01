@@ -16,7 +16,7 @@
 * [Managing reports]
 * [Managing settings](ManagingSettings)
    * [Segmentation settings]
-   * [Local settings](LocalSettings)
+   * [Local settings](LocalSettings.md)
    * [Managing DND policy settings](ManagingDND)
    * [Managing users]
 * [Data types, input fields and operators](InputBoxOperators)
