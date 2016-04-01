@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 * [Introduction](README.md.md)
 
 [**Home**](Home.md)  
@@ -71,4 +72,7 @@
 [Setting the default DND policy to none](SettingNoDND.md)  
 [Deleting a DND policy](DeletingDND.md)  
 [**Managing users**]  
+=======
+* [Introduction](README.md)
+>>>>>>> 222e09517c9b34048c93b0575a6f1c84ada34a60
 
