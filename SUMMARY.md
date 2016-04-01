@@ -9,5 +9,5 @@
 * [Selecting a database](SelectingADatabase.md)
 * [Getting started and navigating the UI](NavigatingUI.md)
 * [Changing the UI display language](ChangingLanguage.md)
-* Data types, input fields and operators
+* [Data types, input fields and operators](InputBoxOperators.md)
 
