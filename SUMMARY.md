@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [contactplan overview](contactplan overview)
+   * [Understanding contactplan](UnderstandingContactPlan.md)
    * understanding contactplan
-* [Understanding contactplan](UnderstandingContactPlan.md)
 * [Using the UI](UsingUI.md)
 * [Understanding segmentation](UnderstandingSegmentation.md)
 * [Understanding plans](UnderstandingPlans.md)
