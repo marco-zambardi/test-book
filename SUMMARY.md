@@ -28,4 +28,5 @@
    * [Creating a custom purchases rule](CreatingCustomPurchasesRule.md)
    * [Editing a segment](EditingSegment.md)
    * [Deleting a segment](DeletingSegment.md)
+   * Downloading a segment contact list
 
