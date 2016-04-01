@@ -17,5 +17,5 @@
 * [Viewing segments](ViewingSegments.md)
 * [Segment details](SegmentDetails.md)
 * [Creating new segments](CreatingNewSegments.md)
-* Creating a demographic rule
+* [Creating a demographic rule](CreatingDemographicRule.md)
 
