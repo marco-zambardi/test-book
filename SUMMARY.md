@@ -18,8 +18,8 @@
 * Segments
    * [Managing segments](ManagingSegments.md)
    * [Viewing segments](ViewingSegments.md)
+   * [Segment details](SegmentDetails.md)
    * pippo
-* [Segment details](SegmentDetails.md)
 * [Creating new segments](CreatingNewSegments.md)
 * [Creating a demographic rule](CreatingDemographicRule.md)
 * [Creating a custom demographic rule](CreatingCustomDemographicRule.md)
