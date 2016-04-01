@@ -40,5 +40,5 @@
 * [Settings](settings_chapter.md)
    * [Managing settings](ManagingSettings.md)
    * [Segmentation settings](SegmentationSettings.md)
-   * Local settings
+   * [Local settings](LocalSettings.md)
 
