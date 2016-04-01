@@ -14,5 +14,5 @@
 * [Input field types](InputFieldTypes.md)
 * [Operator types](OperatorTypes.md)
 * [Managing segments](ManagingSegments.md)
-* Viewing segments
+* [Viewing segments](ViewingSegments.md)
 
