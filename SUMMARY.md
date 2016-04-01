@@ -10,7 +10,7 @@
 * [Understanding contactplan](UnderstandingContactplan.md)
 * [Selecting a database](SelectingADatabase.md)
 * [Getting started and navigating the UI](NavigatingUI.md)
-* [Changing the UI display language](ChangingLanguage)
+* [Changing the UI display language](ChangingLanguage.md)
 * [Managing segments](ManagingSegments)
 * [Managing plans](ManagingPlans)
 * [Managing reports]
