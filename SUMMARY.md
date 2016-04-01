@@ -8,5 +8,5 @@
 * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
 * [Selecting a database](SelectingADatabase.md)
 * [Getting started and navigating the UI](NavigatingUI.md)
-* Changing the UI display language
+* [Changing the UI display language](ChangingLanguage.md)
 
