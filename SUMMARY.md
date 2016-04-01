@@ -44,5 +44,5 @@
    * [Managing DND policy settings](ManagingDND.md)
    * [Viewing DND policies](ViewingDND.md)
    * [Creating a new DND policy](CreatingNewDND.md)
-   * Editing a DND policy
+   * [Editing a DND policy](EditingDND.md)
 
