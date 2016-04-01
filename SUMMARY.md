@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Contactplan overview
 * [Understanding contactplan](UnderstandingContactPlan.md)
 * [Using the UI](UsingUI.md)
 * [Understanding segmentation](UnderstandingSegmentation.md)
@@ -21,5 +22,4 @@
 * [Creating a custom demographic rule](CreatingCustomDemographicRule.md)
 * [Creating a digital messages rule](CreatingDigitalMessagesRule.md)
 * [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
-* Contactplan overview
 
