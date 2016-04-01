@@ -8,7 +8,7 @@
 * Send a test delivery to an audience of your choice
 * Optionally apply a Do Not Disturb (DND) policy as required
 * [Understanding contactplan](UnderstandingContactplan.md)
-* [Selecting a database](SelectingADatabase)
+* [Selecting a database](SelectingADatabase.md)
 * [Getting started and navigating the UI](NavigatingUI)
 * [Changing the UI display language](ChangingLanguage)
 * [Managing segments](ManagingSegments)
