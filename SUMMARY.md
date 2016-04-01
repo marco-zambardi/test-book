@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Understanding contactplan](UnderstandingContactPlan.md)
 * [Using the UI](UsingUI.md)
-* [Understanding segmentation](UnderstandingSegmentation.md.md)
+* [Understanding segmentation](UnderstandingSegmentation.md)
 * [Understanding plans](UnderstandingPlans.md.md)
 * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md.md)
 * [Selecting a database](SelectingADatabase.md.md)
