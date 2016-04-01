@@ -1,5 +1,6 @@
 # Operator types
 
+<<<<<<< HEAD
 Contactplan provides the following operator types to apply search criteria to condition attributes:  
 
 - Equal to  
@@ -136,3 +137,5 @@ The **Is not null** operator applies to **string**, **numeric** and **date** dat
 
 - [ContactLab contactplan](Home.md)  
 - [Glossary]  
+=======
+>>>>>>> 7da6563867e212c55108eafb8489928e5cfa34aa
