@@ -7,7 +7,7 @@
 * Plan and execute one-off or recurring deliveries, using either the ContactLab platform or a third-party application
 * Send a test delivery to an audience of your choice
 * Optionally apply a Do Not Disturb (DND) policy as required
-* [Understanding contactplan](understandingcontactplan.md)
+* [Understanding contactplan](understandingContactplan.md)
 * [Selecting a database](SelectingADatabase)
 * [Getting started and navigating the UI](NavigatingUI)
 * [Changing the UI display language](ChangingLanguage)
