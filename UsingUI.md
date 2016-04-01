@@ -7,26 +7,26 @@ Data specialists can work with each individual attribute of the relevant databas
 Creating a new plan is as simple as following a step-by-step wizard to provide all the required information.  
 
 ***Next page:***  
-[Understanding segmentation](UnderstandingSegmentation)  
+[Understanding segmentation](UnderstandingSegmentation.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Understanding contactplan](UnderstandingContactPlan)  
-  - [Understanding segmentation](UnderstandingSegmentation)  
-  - [Understanding plans](UnderstandingPlans)  
-  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis)  
+- [Understanding contactplan](UnderstandingContactPlan.md)  
+  - [Understanding segmentation](UnderstandingSegmentation.md)  
+  - [Understanding plans](UnderstandingPlans.md)  
+  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)  
 
 ### Also see:  
 
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
-- [Managing settings](ManagingSettings)
+- [Managing segments](ManagingSegments.md)  
+- [Managing plans](ManagingPlans.md)  
+- [Managing settings](ManagingSettings.md)
 - [Managing reports]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [ContactLab contactplan](Home.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 - [Glossary]  

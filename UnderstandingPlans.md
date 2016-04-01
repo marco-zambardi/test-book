@@ -7,14 +7,14 @@ A plan includes all of the information that is required to make use of the conta
 Plans include the following information, as a minimum:  
 
 - The target date, time and timezone to carry out the plan  
-- The target segment to be used (contacts)  
+- The target segment to be used (contacts.md)  
 - The consumer  
   The external platform that is to receive the list of contacts  
 
 The following can also be defined in a plan:  
 
 - Whether it is a single-shot or a recurring plan  
-- The Do Not Disturb (DND) policy  
+- The Do Not Disturb (DND.md) policy  
   To manage the volume of messages sent to contacts  
 - Test email addresses  
   To send a test delivery before the actual one  
@@ -39,26 +39,26 @@ The resulting list of contacts is passed to the selected consumer for the plan t
 The contactplan architecture has been designed so that a new plugin can be added, without a loss of service.  
 
 ***Next page:***  
-[Reports and dashboard analysis](ReportsAndDashboardAnalysis)  
+[Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Understanding contactplan](UnderstandingContactPlan)  
-  - [Using the UI](UsingUI)  
-  - [Understanding segmentation](UnderstandingSegmentation)  
-  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis)  
+- [Understanding contactplan](UnderstandingContactPlan.md)  
+  - [Using the UI](UsingUI.md)  
+  - [Understanding segmentation](UnderstandingSegmentation.md)  
+  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)  
 
 ### Also see:  
 
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
-- [Managing settings](ManagingSettings)
+- [Managing segments](ManagingSegments.md)  
+- [Managing plans](ManagingPlans.md)  
+- [Managing settings](ManagingSettings.md)
 - [Managing reports]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [ContactLab contactplan](Home.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 - [Glossary]  

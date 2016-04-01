@@ -70,7 +70,7 @@ If you need to define multiple values for an attribute with a free text input fi
   A new condition for the appropriate attribute displays.  
 2. Type the additional value for the attribute in the new free text box.  
 3. Under **Match**, select **ALL** or **ANY** as required.  
-  See [Understanding segmentation](UnderstandingSegmentation) for more details.  
+  See [Understanding segmentation](UnderstandingSegmentation.md.md) for more details.  
 
 ## Drill down  
 
@@ -99,7 +99,7 @@ For a geographic location-related condition:
 
 ## Number  
 
-Number input fields are only used for attributes that have a **Numeric** data type. See [Data types](DataTypes) for more details.  
+Number input fields are only used for attributes that have a **Numeric** data type. See [Data types](DataTypes.md.md) for more details.  
 
 ### Use  
 
@@ -107,7 +107,7 @@ The UI displays a widget and a numeric value can either be typed in, or it can b
 
 ## Calendar  
 
-Calendar input fields are only used for attributes that have a **Date** data type. See [Data types](DataTypes) for more details.  
+Calendar input fields are only used for attributes that have a **Date** data type. See [Data types](DataTypes.md.md) for more details.  
 
 A graphical calendar widget is provided that is used to select the required date.  
 
@@ -124,28 +124,28 @@ The UI displays an editable text box containing the text *DD/MM/YYYY*. Do one of
 - Type the desired date in the text box, using the DD/MM/YYYY format  
 
 ***Next page:***  
-[Operator types](OperatorTypes)  
+[Operator types](OperatorTypes.md.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Data types, input fields and operators](InputBoxOperators)  
-  - [Data types](DataTypes)  
-  - [Operator types](OperatorTypes)  
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
+- [Data types, input fields and operators](InputBoxOperators.md.md)  
+  - [Data types](DataTypes.md.md)  
+  - [Operator types](OperatorTypes.md.md)  
+- [Managing segments](ManagingSegments.md.md)  
+- [Managing plans](ManagingPlans.md.md)  
 
 ### Also see:  
 
 - [Managing reports]  
-- [Managing settings](ManagingSettings)  
+- [Managing settings](ManagingSettings.md.md)  
   - [Segmentation settings]  
-  - [Local settings](LocalSettings)  
-  - [Managing DND policy settings](ManagingDND)  
+  - [Local settings](LocalSettings.md.md)  
+  - [Managing DND policy settings](ManagingDND.md.md)  
   - [Managing users]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
+- [ContactLab contactplan](Home.md.md)  
 - [Glossary]  

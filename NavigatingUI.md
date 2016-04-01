@@ -29,8 +29,8 @@ It includes:
   - **User information** field  
     - Click to display the **User information** panel, with access to notifications, team and support information, as well as details about the current user.  
       From the **User information** panel you can also:
-      - [Change the UI display language](ChangingLanguage)
-      - Identify the database that is currently being used and [change to a different one](SelectingADatabase), if available for your account  
+      - [Change the UI display language](ChangingLanguage.md)
+      - Identify the database that is currently being used and [change to a different one](SelectingADatabase.md), if available for your account  
       - Log out from the system.  
 - The appropriate management page  
   - Selected using the tabs on the **Control bar**  
@@ -85,28 +85,28 @@ The UI views and management pages include the following icons and buttons:
 ||*insert language icon*|Description.|
 
 ***Next page:***  
-[Changing the UI display language](ChangingLanguage)  
+[Changing the UI display language](ChangingLanguage.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Selecting a database](SelectingADatabase)  
-- [Changing the UI display language](ChangingLanguage)  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [Selecting a database](SelectingADatabase.md)  
+- [Changing the UI display language](ChangingLanguage.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 
 ### Also see:  
 
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
+- [Managing segments](ManagingSegments.md)  
+- [Managing plans](ManagingPlans.md)  
 - [Managing reports]  
-- [Managing settings](ManagingSettings)  
+- [Managing settings](ManagingSettings.md)  
   - [Segmentation settings]  
-  - [Local settings](LocalSettings)  
-  - [Managing DND policy settings](ManagingDND)  
+  - [Local settings](LocalSettings.md)  
+  - [Managing DND policy settings](ManagingDND.md)  
   - [Managing users]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
+- [ContactLab contactplan](Home.md)  
 - [Glossary]  

@@ -13,28 +13,28 @@ To change the database that contactplan uses, do the following:
 3. Click the **User name** field to close the **User Information** panel.  
 
 ***Next page:***  
-[Getting started and navigating the UI](NavigatingUI)  
+[Getting started and navigating the UI](NavigatingUI.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Getting started and navigating the UI](NavigatingUI)  
-- [Changing the UI display language](ChangingLanguage)  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [Getting started and navigating the UI](NavigatingUI.md)  
+- [Changing the UI display language](ChangingLanguage.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 
 ### Also see:  
 
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
+- [Managing segments](ManagingSegments.md)  
+- [Managing plans](ManagingPlans.md)  
 - [Managing reports]  
-- [Managing settings](ManagingSettings)  
+- [Managing settings](ManagingSettings.md)  
   - [Segmentation settings]  
-  - [Local settings](LocalSettings)  
-  - [Managing DND policy settings](ManagingDND)  
+  - [Local settings](LocalSettings.md)  
+  - [Managing DND policy settings](ManagingDND.md)  
   - [Managing users]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
+- [ContactLab contactplan](Home.md)  
 - [Glossary]  

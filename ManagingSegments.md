@@ -17,56 +17,56 @@ See the *Contactplan Product Overview* for a detailed description of rules, filt
 
 This section of the guide contains all of the information that you need to be able to create, manage, change or delete contactplan segments. It includes the following topics:
 
-- [Viewing segments](ViewingSegments)  
-  - [Segment details](SegmentDetails)  
-- [Creating new segments](CreatingNewSegments)  
-  - [Creating a demographic rule](CreatingDemographicRule)  
-     - [Creating a custom demographic rule](CreatingCustomDemographicRule)  
-  - [Creating a digital messages rule](CreatingDigitalMessagesRule)  
-    - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule)  
-  - [Creating a purchases rule](CreatingPurchasesRule)  
-    - [Creating a custom purchases rule](CreatingCustomPurchasesRule)  
-- [Editing a segment](EditingSegment)  
-- [Deleting a segment](DeletingSegment)  
-- [Downloading a segment contact list](DownloadingSegmentContactList)  
-- [Creating a new plan directly from a saved segment](CreatingPlanFromSegment)  
+- [Viewing segments](ViewingSegments.md)  
+  - [Segment details](SegmentDetails.md)  
+- [Creating new segments](CreatingNewSegments.md)  
+  - [Creating a demographic rule](CreatingDemographicRule.md)  
+     - [Creating a custom demographic rule](CreatingCustomDemographicRule.md)  
+  - [Creating a digital messages rule](CreatingDigitalMessagesRule.md)  
+    - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)  
+  - [Creating a purchases rule](CreatingPurchasesRule.md)  
+    - [Creating a custom purchases rule](CreatingCustomPurchasesRule.md)  
+- [Editing a segment](EditingSegment.md)  
+- [Deleting a segment](DeletingSegment.md)  
+- [Downloading a segment contact list](DownloadingSegmentContactList.md)  
+- [Creating a new plan directly from a saved segment](CreatingPlanFromSegment.md)  
 
 **Note:**  
-See [Data types, input fields and operators](InputBoxOperators) for more about the fields and operators that are available in the UI.  
+See [Data types, input fields and operators](InputBoxOperators.md) for more about the fields and operators that are available in the UI.  
 
 ***Next page:***  
-[Viewing segments](ViewingSegments)  
+[Viewing segments](ViewingSegments.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Viewing segments](ViewingSegments)  
-  - [Segment details](SegmentDetails)  
-- [Creating new segments](CreatingNewSegments)  
-  - [Creating a demographic rule](CreatingDemographicRule)  
-  - [Creating a custom demographic rule](CreatingCustomDemographicRule)  
-  - [Creating a digital messages rule](CreatingDigitalMessagesRule)  
-  - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule)
-  - [Creating a purchases rule](CreatingPurchasesRule)  
-  - [Creating a custom purchases rule](CreatingCustomPurchasesRule)
-- [Editing a segment](EditingSegment)  
-- [Deleting a segment](DeletingSegment)  
-- [Downloading a segment contact list](DownloadingSegmentContactList)  
-- [Creating a new plan directly from a saved segment](CreatingPlanFromSegment)  
+- [Viewing segments](ViewingSegments.md)  
+  - [Segment details](SegmentDetails.md)  
+- [Creating new segments](CreatingNewSegments.md)  
+  - [Creating a demographic rule](CreatingDemographicRule.md)  
+  - [Creating a custom demographic rule](CreatingCustomDemographicRule.md)  
+  - [Creating a digital messages rule](CreatingDigitalMessagesRule.md)  
+  - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
+  - [Creating a purchases rule](CreatingPurchasesRule.md)  
+  - [Creating a custom purchases rule](CreatingCustomPurchasesRule.md)
+- [Editing a segment](EditingSegment.md)  
+- [Deleting a segment](DeletingSegment.md)  
+- [Downloading a segment contact list](DownloadingSegmentContactList.md)  
+- [Creating a new plan directly from a saved segment](CreatingPlanFromSegment.md)  
 
 ### Also see:  
 
-- [Managing plans](ManagingPlans)  
+- [Managing plans](ManagingPlans.md)  
 - [Managing reports]  
-- [Managing settings](ManagingSettings)  
+- [Managing settings](ManagingSettings.md)  
   - [Segmentation settings]  
-  - [Local settings](LocalSettings)  
-  - [Managing DND policy settings](ManagingDND)  
+  - [Local settings](LocalSettings.md)  
+  - [Managing DND policy settings](ManagingDND.md)  
   - [Managing users]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [ContactLab contactplan](Home.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 - [Glossary]  

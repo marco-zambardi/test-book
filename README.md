@@ -14,31 +14,31 @@ Contactplan provides a range of powerful, yet readily usable database segmentati
 - Save defined segments for further analysis, or use in a forthcoming delivery  
 - Plan and execute one-off or recurring deliveries, using either the ContactLab platform or a third-party application  
 - Send a test delivery to an audience of your choice  
-- Optionally apply a Do Not Disturb (DND) policy as required  
+- Optionally apply a Do Not Disturb (DND.md) policy as required  
 
 **Note:**
-Not all page links in this draft version of the contactplan user guide are active. Active links appear as hyperlinks, such as [Managing segments](ManagingSegments). Inactive links display as text in square brackets, for example, [Managing users].  
+Not all page links in this draft version of the contactplan user guide are active. Active links appear as hyperlinks, such as [Managing segments](ManagingSegments.md). Inactive links display as text in square brackets, for example, [Managing users].  
 
 ## Using this user guide
 
 These pages provide information about the following:  
 
-- [Understanding contactplan](UnderstandingContactPlan)  
-- [Selecting a database](SelectingADatabase) to use with contactplan  
-- [Getting started and navigating the UI](NavigatingUI)  
-- [Changing the UI display language](ChangingLanguage)  
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
+- [Understanding contactplan](UnderstandingContactPlan.md)  
+- [Selecting a database](SelectingADatabase.md) to use with contactplan  
+- [Getting started and navigating the UI](NavigatingUI.md)  
+- [Changing the UI display language](ChangingLanguage.md)  
+- [Managing segments](ManagingSegments.md)  
+- [Managing plans](ManagingPlans.md)  
 - [Managing reports]
-- [Managing settings](ManagingSettings)  
+- [Managing settings](ManagingSettings.md)  
   - [Segmentation settings]  
-  - [Local settings](LocalSettings)  
-  - [Managing DND policy settings](ManagingDND)  
+  - [Local settings](LocalSettings.md)  
+  - [Managing DND policy settings](ManagingDND.md)  
   - [Managing users]  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 
 **Note:**  
-All descriptions in this guide assume that you are using the UI in the **normal view**, not the **compact view**. See [Getting started and navigating the UI](NavigatingUI) for more about the different views.  
+All descriptions in this guide assume that you are using the UI in the **normal view**, not the **compact view**. See [Getting started and navigating the UI](NavigatingUI.md) for more about the different views.  
 
 At the bottom of each page are:  
 
@@ -72,7 +72,7 @@ You may find the following documentation useful when working with contactplan:
 Click the **Next page** link to go to the **Understanding contactplan** page, or use the **Related Pages** links to navigate to individual pages, including **Copyright** information.  
 
 ***Next page:***  
-[Understanding contactplan](UnderstandingContactPlan)  
+[Understanding contactplan](UnderstandingContactPlan.md)  
 
 ----------
 
@@ -80,55 +80,55 @@ Click the **Next page** link to go to the **Understanding contactplan** page, or
 
 **Reference**  
 
-- [Copyright](Copyright)  
-- [Data types, input fields and operators](InputBoxOperators)  
-  - [Data types](DataTypes)  
-  - [Input field types](InputFieldTypes)  
-  - [Operator types](OperatorTypes)  
+- [Copyright](Copyright.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
+  - [Data types](DataTypes.md)  
+  - [Input field types](InputFieldTypes.md)  
+  - [Operator types](OperatorTypes.md)  
 - [Glossary]  
 
 **Contactplan overview**  
 
-- [Understanding contactplan](UnderstandingContactPlan)  
-  - [Using the UI](UsingUI)  
-  - [Understanding segmentation](UnderstandingSegmentation)  
-  - [Understanding plans](UnderstandingPlans)  
-  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis)  
+- [Understanding contactplan](UnderstandingContactPlan.md)  
+  - [Using the UI](UsingUI.md)  
+  - [Understanding segmentation](UnderstandingSegmentation.md)  
+  - [Understanding plans](UnderstandingPlans.md)  
+  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)  
 
 **Using contactplan**  
 
-- [Selecting a database](SelectingADatabase)  
-- [Getting started and navigating the UI](NavigatingUI)  
-- [Changing the UI display language](ChangingLanguage)  
-- [Managing segments](ManagingSegments)  
-  - [Viewing segments](ViewingSegments)  
-    - [Segment details](SegmentDetails)  
-  - [Creating new segments](CreatingNewSegments)  
-    - [Creating a demographic rule](CreatingDemographicRule)  
-      - [Creating a custom demographic rule](CreatingCustomDemographicRule)  
-    - [Creating a digital messages rule](CreatingDigitalMessagesRule)  
-      - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule)  
-    - [Creating a purchases rule](CreatingPurchasesRule)  
-      - [Creating a custom purchases rule](CreatingCustomPurchasesRule)  
-  - [Editing a segment](EditingSegment)  
-  - [Deleting a segment](DeletingSegment)  
-  - [Downloading a segment contact list](DownloadingSegmentContactList)  
-  - [Creating a new plan directly from a saved segment](CreatingPlanFromSegment)  
-- [Managing plans](ManagingPlans)  
-  - [Viewing plans](ViewingPlans)  
-    - [Plan details](PlanDetails)  
-  - [Creating new plans](CreatingNewPlans)  
-  - [Editing a plan](EditingPlan)  
-  - [Deleting a plan](DeletingPlans)  
+- [Selecting a database](SelectingADatabase.md)  
+- [Getting started and navigating the UI](NavigatingUI.md)  
+- [Changing the UI display language](ChangingLanguage.md)  
+- [Managing segments](ManagingSegments.md)  
+  - [Viewing segments](ViewingSegments.md)  
+    - [Segment details](SegmentDetails.md)  
+  - [Creating new segments](CreatingNewSegments.md)  
+    - [Creating a demographic rule](CreatingDemographicRule.md)  
+      - [Creating a custom demographic rule](CreatingCustomDemographicRule.md)  
+    - [Creating a digital messages rule](CreatingDigitalMessagesRule.md)  
+      - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)  
+    - [Creating a purchases rule](CreatingPurchasesRule.md)  
+      - [Creating a custom purchases rule](CreatingCustomPurchasesRule.md)  
+  - [Editing a segment](EditingSegment.md)  
+  - [Deleting a segment](DeletingSegment.md)  
+  - [Downloading a segment contact list](DownloadingSegmentContactList.md)  
+  - [Creating a new plan directly from a saved segment](CreatingPlanFromSegment.md)  
+- [Managing plans](ManagingPlans.md)  
+  - [Viewing plans](ViewingPlans.md)  
+    - [Plan details](PlanDetails.md)  
+  - [Creating new plans](CreatingNewPlans.md)  
+  - [Editing a plan](EditingPlan.md)  
+  - [Deleting a plan](DeletingPlans.md)  
 - [Managing reports]  
-- [Managing settings](ManagingSettings)  
+- [Managing settings](ManagingSettings.md)  
   - [Segmentation settings]  
-  - [Local settings](LocalSettings)  
-  - [Managing DND policy settings](ManagingDND)  
-    - [Viewing DND policies](ViewingDND)  
-    - [Creating a new DND policy](CreatingNewDND)  
-    - [Editing a DND policy](EditingDND)  
-    - [Setting the default DND policy](SettingDefaultDND)  
-    - [Setting the default DND policy to none](SettingNoDND)  
-    - [Deleting a DND policy](DeletingDND)  
+  - [Local settings](LocalSettings.md)  
+  - [Managing DND policy settings](ManagingDND.md)  
+    - [Viewing DND policies](ViewingDND.md)  
+    - [Creating a new DND policy](CreatingNewDND.md)  
+    - [Editing a DND policy](EditingDND.md)  
+    - [Setting the default DND policy](SettingDefaultDND.md)  
+    - [Setting the default DND policy to none](SettingNoDND.md)  
+    - [Deleting a DND policy](DeletingDND.md)  
   - [Managing users]  

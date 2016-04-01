@@ -92,26 +92,26 @@ An analytical query enables a comparison to be made between how often an event w
 A correlation-based query enables a relationship between two different events during a given period of time to be established.  
 
 ***Next page:***  
-[Understanding plans](UnderstandingPlans)  
+[Understanding plans](UnderstandingPlans.md)  
 
 ----------
 
 ## Related Pages:  
 
-- [Understanding contactplan](UnderstandingContactPlan)  
-  - [Using the UI](UsingUI)  
-  - [Understanding plans](UnderstandingPlans)  
-  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis)  
+- [Understanding contactplan](UnderstandingContactPlan.md)  
+  - [Using the UI](UsingUI.md)  
+  - [Understanding plans](UnderstandingPlans.md)  
+  - [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)  
 
 ### Also see:  
 
-- [Managing segments](ManagingSegments)  
-- [Managing plans](ManagingPlans)  
-- [Managing settings](ManagingSettings)
+- [Managing segments](ManagingSegments.md)  
+- [Managing plans](ManagingPlans.md)  
+- [Managing settings](ManagingSettings.md)
 - [Managing reports]  
 
 ### Other links:  
 
-- [ContactLab contactplan](Home)  
-- [Data types, input fields and operators](InputBoxOperators)  
+- [ContactLab contactplan](Home.md)  
+- [Data types, input fields and operators](InputBoxOperators.md)  
 - [Glossary]  
