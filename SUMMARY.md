@@ -15,4 +15,5 @@
 * [Operator types](OperatorTypes.md)
 * [Managing segments](ManagingSegments.md)
 * [Viewing segments](ViewingSegments.md)
+* Segment details
 
