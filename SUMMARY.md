@@ -1,8 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [Summary](SUMMARY.md)
-
 [**Home**](Home)  
 [Copyright](Copyright)  
 [Glossary]  
