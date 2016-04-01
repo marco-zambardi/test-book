@@ -11,7 +11,7 @@
 
 **Contactplan overview**  
 
-[**Understanding contactplan**](UnderstandingContactPlan)  
+[**Understanding contactplan**](UnderstandingContactPlan.md)  
 [Using the UI](UsingUI)  
 [Understanding segmentation](UnderstandingSegmentation)  
 [Understanding plans](UnderstandingPlans)  
