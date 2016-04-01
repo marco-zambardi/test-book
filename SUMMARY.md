@@ -34,5 +34,5 @@
    * [Managing plans](ManagingPlans.md)
    * [Viewing plans](ViewingPlans.md)
    * [Plan details](PlanDetails.md)
-   * Creating new plans
+   * [Creating new plans](CreatingNewPlans.md)
 
