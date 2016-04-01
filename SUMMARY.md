@@ -1,6 +1,6 @@
 # Summary
 
-<<<<<<< HEAD
+
 * [Introduction](README.md.md)
 
 [**Home**](Home.md)  
