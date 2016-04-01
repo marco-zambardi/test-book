@@ -7,7 +7,7 @@
 * [Understanding plans](UnderstandingPlans.md)
 * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
 * [Selecting a database](SelectingADatabase.md)
-* [Getting started and navigating the UI](NavigatingUI.md.md)
+* [Getting started and navigating the UI](NavigatingUI.md)
 * [Changing the UI display language](ChangingLanguage.md.md)
 * [Data types, input fields and operators](InputBoxOperators.md.md)
 * [Data types](DataTypes.md.md)
