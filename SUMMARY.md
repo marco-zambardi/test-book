@@ -8,6 +8,7 @@
    * [Understanding plans](UnderstandingPlans.md)
    * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
 * Using Contactplan
+   * pippo
 * [Selecting a database](SelectingADatabase.md)
 * [Getting started and navigating the UI](NavigatingUI.md)
 * [Changing the UI display language](ChangingLanguage.md)
