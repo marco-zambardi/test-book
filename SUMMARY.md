@@ -5,5 +5,5 @@
 * [Using the UI](UsingUI.md)
 * [Understanding segmentation](UnderstandingSegmentation.md)
 * [Understanding plans](UnderstandingPlans.md)
-* Reports and dashboard analysis
+* [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
 
