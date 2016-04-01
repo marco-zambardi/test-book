@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Understanding Contactplan](UnderstandingContactPlan.md)
+* [Understanding Contactplan](understandingcontactplanmd.md)
 
