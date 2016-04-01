@@ -9,7 +9,7 @@
 * Optionally apply a Do Not Disturb (DND) policy as required
 * [Understanding contactplan](UnderstandingContactplan.md)
 * [Selecting a database](SelectingADatabase.md)
-* [Getting started and navigating the UI](NavigatingUI)
+* [Getting started and navigating the UI](NavigatingUI.md)
 * [Changing the UI display language](ChangingLanguage)
 * [Managing segments](ManagingSegments)
 * [Managing plans](ManagingPlans)
