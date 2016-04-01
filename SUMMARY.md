@@ -43,5 +43,5 @@
    * [Local settings](LocalSettings.md)
    * [Managing DND policy settings](ManagingDND.md)
    * [Viewing DND policies](ViewingDND.md)
-   * Creating a new DND policy
+   * [Creating a new DND policy](CreatingNewDND.md)
 
