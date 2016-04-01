@@ -25,5 +25,4 @@
    * [Creating a digital messages rule](CreatingDigitalMessagesRule.md)
    * [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
    * Creating a purchases rule
-   * pippo
 
