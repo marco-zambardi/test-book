@@ -31,4 +31,5 @@
    * [Downloading a segment contact list](DownloadingSegmentContactList.md)
    * [Creating a new plan directly from a saved segment](CreatingPlanFromSegment.md)
 * [Plans](plans_chapter.md)
+   * Managing plans
 
