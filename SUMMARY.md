@@ -16,6 +16,7 @@
    * [Input field types](InputFieldTypes.md)
    * [Operator types](OperatorTypes.md)
 * Segments
+   * pippo
 * [Managing segments](ManagingSegments.md)
 * [Viewing segments](ViewingSegments.md)
 * [Segment details](SegmentDetails.md)
