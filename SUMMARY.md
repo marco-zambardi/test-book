@@ -47,5 +47,5 @@
    * [Editing a DND policy](EditingDND.md)
    * [Setting the default DND policy](SettingDefaultDND.md)
    * [Setting the default DND policy to none](SettingNoDND.md)
-   * Deleting a DND policy
+   * [Deleting a DND policy](DeletingDND.md)
 
