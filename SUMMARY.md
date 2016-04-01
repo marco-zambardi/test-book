@@ -22,8 +22,8 @@
    * [Creating new segments](CreatingNewSegments.md)
    * [Creating a demographic rule](CreatingDemographicRule.md)
    * [Creating a custom demographic rule](CreatingCustomDemographicRule.md)
+   * [Creating a digital messages rule](CreatingDigitalMessagesRule.md)
    * pippo
-* [Creating a digital messages rule](CreatingDigitalMessagesRule.md)
 * [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
 * Creating a purchases rule
 
