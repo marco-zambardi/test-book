@@ -37,4 +37,5 @@
    * [Creating new plans](CreatingNewPlans.md)
    * [Editing a plan](EditingPlan.md)
    * [Deleting a plan](DeletingPlans.md)
+* Settings
 
