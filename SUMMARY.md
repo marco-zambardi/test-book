@@ -42,5 +42,5 @@
    * [Segmentation settings](SegmentationSettings.md)
    * [Local settings](LocalSettings.md)
    * [Managing DND policy settings](ManagingDND.md)
-   * Viewing DND policies
+   * [Viewing DND policies](ViewingDND.md)
 
