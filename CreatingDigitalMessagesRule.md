@@ -1,0 +1,89 @@
+# Creating a digital messages rule
+
+*Insert Create digital messages rule screen shot...*  
+
+You have four options when creating a digital messages rule:
+
+- Use a preset rule without modifying it  
+- Select a preset rule and fine tune it as required  
+- Use a favorite rule  
+  Favorite rules are presets that have been saved as you favorites.
+- Create a custom rule  
+
+To create a digital messages rule:  
+
+1. Click **Create digital messages rule** on the **New segment** page  
+  The **Create digital messages rule** page displays, with **My favorite rules** highlighted and shown by default. All preset rules that have been defined as favorites are listed. If no favorite rule has been selected, a hint that shows how to choose a favorite displays.  
+2. Do one of the following:  
+  - Select a favorite  
+  - Click **Preset rules**, choose a preset, click **Select** to display the rule, then click **Add** to apply the rule to the segment.  
+  - Click **Preset rules**, choose a preset, click **Select** to display the rule, fine tune it as required, then click **Add** to apply the rule to the segment. See [Editing a segment](EditingSegment) for more details.  
+  **Note:**  
+  Remember to change the name of the rule if you want to differentiate it from the preset.  
+  Preset rules cannot be edited in the same way as a custom rule. Only the pre-defined condition/s can be edited.  
+  - Click **Create custom rule** then follow the instructions given in [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule)  
+  
+  Each time you add a rule, you are returned to the **New segment** page.  
+  To close the **Create digital messages rule** page without adding a rule:  
+  - Click the **X** icon, located in the top right-hand corner of the page  
+   or:  
+  - Click **Cancel**  
+  
+3. Repeat the above steps as often as required until you have created all of the digital messages rules.  
+  **IMPORTANT:**  
+  Ensure that you create all rules, including other types of rule such as Demographic rules and Purchases rules, in the correct order, so that you can apply the appropriate **interaction condition** between pairs of rules. See [Creating new segments](CreatingNewSegments) for more about interaction conditions between rules.  
+
+## Managing your favorite preset rules  
+
+To set a preset as a favorite:
+
+- Click **Preset rules** and locate the relevant preset  
+- Click the heart shaped icon to highlight it  
+  The rule is added to your favorites list.  
+
+To remove a preset from your favorites:  
+
+- Click **My favorite rules** and locate the relevant preset  
+- Click the heart shaped icon to remove the highlighting  
+  Next time you open **My favorite rules**, the relevant preset no longer appears the list.  
+
+## Creating preset rules
+
+You need the appropriate permissions to be able to create preset rules. See [Creating preset rules] for more details.  
+
+***Next page:***  
+[Creating a purchases rule](CreatingPurchasesRule)  
+
+----------
+
+## Related Pages:  
+
+- [Managing segments](ManagingSegments)  
+  - [Viewing segments](ViewingSegments)  
+  - [Segment details](SegmentDetails)  
+- [Creating new segments](CreatingNewSegments)  
+  - [Creating a demographic rule](CreatingDemographicRule)  
+  - [Creating a custom demographic rule](CreatingCustomDemographicRule)  
+  - [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule)  
+  - [Creating a purchases rule](CreatingPurchasesRule)  
+  - [Creating a custom purchases rule](CreatingCustomPurchasesRule)  
+- [Editing a segment](EditingSegment)  
+- [Deleting a segment](DeletingSegment)  
+- [Downloading a segment contact list](DownloadingSegmentContactList)  
+- [Creating a new plan directly from a saved segment](CreatingPlanFromSegment)  
+
+### Also see:  
+
+- [Managing plans](ManagingPlans)  
+- [Managing reports]  
+- [Managing settings](ManagingSettings)  
+  - [Segmentation settings]  
+  - [Local settings](LocalSettings)  
+  - [Managing DND policy settings](ManagingDND)  
+  - [Managing users]  
+
+### Other links:  
+
+- [ContactLab contactplan](Home)  
+- [Data types, input fields and operators](InputBoxOperators)  
+- [Glossary]  
