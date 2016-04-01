@@ -27,5 +27,5 @@
    * [Creating a purchases rule](CreatingPurchasesRule.md)
    * [Creating a custom purchases rule](CreatingCustomPurchasesRule.md)
    * [Editing a segment](EditingSegment.md)
-   * Deleting a segment
+   * [Deleting a segment](DeletingSegment.md)
 
