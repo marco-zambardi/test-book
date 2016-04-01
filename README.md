@@ -1,6 +1,6 @@
 # ContactLab contactplan  
 ## User Interface  
-### Version X.XX  
+### Version 0.01  
 # User Guide  
 
 ----------
