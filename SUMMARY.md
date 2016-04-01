@@ -17,8 +17,8 @@
    * [Operator types](OperatorTypes.md)
 * Segments
    * [Managing segments](ManagingSegments.md)
+   * [Viewing segments](ViewingSegments.md)
    * pippo
-* [Viewing segments](ViewingSegments.md)
 * [Segment details](SegmentDetails.md)
 * [Creating new segments](CreatingNewSegments.md)
 * [Creating a demographic rule](CreatingDemographicRule.md)
