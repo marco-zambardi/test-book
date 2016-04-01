@@ -11,7 +11,7 @@
 * [Changing the UI display language](ChangingLanguage.md)
 * [Data types, input fields and operators](InputBoxOperators.md)
 * [Data types](DataTypes.md)
-* [Input field types](InputFieldTypes.md.md)
+* [Input field types](InputFieldTypes.md)
 * [Operator types](OperatorTypes.md.md)
 * [Managing segments](ManagingSegments.md.md)
 
