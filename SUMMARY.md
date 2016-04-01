@@ -17,7 +17,7 @@
 * [Managing settings](ManagingSettings)
    * [Segmentation settings]
    * [Local settings](LocalSettings.md)
-   * [Managing DND policy settings](ManagingDND)
+   * [Managing DND policy settings](ManagingDND.md)
    * [Managing users]
 * [Data types, input fields and operators](InputBoxOperators)
 * **Related Pages** links
