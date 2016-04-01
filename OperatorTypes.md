@@ -1,6 +1,5 @@
 # Operator types
 
-<<<<<<< HEAD
 Contactplan provides the following operator types to apply search criteria to condition attributes:  
 
 - Equal to  
