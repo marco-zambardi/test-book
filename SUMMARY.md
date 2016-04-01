@@ -26,4 +26,5 @@
    * [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
    * [Creating a purchases rule](CreatingPurchasesRule.md)
    * [Creating a custom purchases rule](CreatingCustomPurchasesRule.md)
+   * Editing a segment
 
