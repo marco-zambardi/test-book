@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [contactplan overview](contactplan_overview.md)
+* [Contactplan overview](contactplan_overview.md)
    * [Understanding contactplan](UnderstandingContactPlan.md)
    * [Using the UI](UsingUI.md)
    * [Understanding segmentation](UnderstandingSegmentation.md)
