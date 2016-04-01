@@ -32,5 +32,5 @@
    * [Creating a new plan directly from a saved segment](CreatingPlanFromSegment.md)
 * [Plans](plans_chapter.md)
    * [Managing plans](ManagingPlans.md)
-   * Viewing plans
+   * [Viewing plans](ViewingPlans.md)
 
