@@ -6,4 +6,5 @@
 * [Understanding segmentation](UnderstandingSegmentation.md)
 * [Understanding plans](UnderstandingPlans.md)
 * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
+* Selecting a database
 
