@@ -38,4 +38,5 @@
    * [Editing a plan](EditingPlan.md)
    * [Deleting a plan](DeletingPlans.md)
 * [Settings](settings_chapter.md)
+   * Managing settings
 
