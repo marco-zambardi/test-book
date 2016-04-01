@@ -15,7 +15,7 @@
    * [Data types](DataTypes.md)
    * [Input field types](InputFieldTypes.md)
    * [Operator types](OperatorTypes.md)
-* Segments
+* [Segments](segments_chapter.md)
    * [Managing segments](ManagingSegments.md)
    * [Viewing segments](ViewingSegments.md)
    * [Segment details](SegmentDetails.md)
