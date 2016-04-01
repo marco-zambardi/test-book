@@ -15,6 +15,7 @@
    * [Data types](DataTypes.md)
    * [Input field types](InputFieldTypes.md)
    * [Operator types](OperatorTypes.md)
+* Segments
 * [Managing segments](ManagingSegments.md)
 * [Viewing segments](ViewingSegments.md)
 * [Segment details](SegmentDetails.md)
@@ -24,5 +25,4 @@
 * [Creating a digital messages rule](CreatingDigitalMessagesRule.md)
 * [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
 * Creating a purchases rule
-* Segments
 
