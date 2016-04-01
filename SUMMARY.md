@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](SUMMARY.md)
 * Clearly identify a target audience from an existing database, for use, for example, in multi-channel direct marketing programs
 * Apply a series of demographic and behavioral rules to finely tune your segmentation choices
 * Save defined segments for further analysis, or use in a forthcoming delivery
