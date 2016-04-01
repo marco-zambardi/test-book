@@ -27,7 +27,7 @@
 * *Insert link*
 * The Contactplan Product Overview
 * The Web UI online manual
-* [Copyright](Copyright)
+* [Copyright](Copyright.md)
 * [Glossary]
 * [Managing reports]
 
