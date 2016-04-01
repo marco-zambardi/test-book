@@ -7,6 +7,7 @@
    * [Understanding segmentation](UnderstandingSegmentation.md)
    * [Understanding plans](UnderstandingPlans.md)
    * [Reports and dashboard analysis](ReportsAndDashboardAnalysis.md)
+* Using Contactplan
 * [Selecting a database](SelectingADatabase.md)
 * [Getting started and navigating the UI](NavigatingUI.md)
 * [Changing the UI display language](ChangingLanguage.md)
@@ -23,5 +24,4 @@
 * [Creating a digital messages rule](CreatingDigitalMessagesRule.md)
 * [Creating a custom digital messages rule](CreatingCustomDigitalMessagesRule.md)
 * Creating a purchases rule
-* Using Contactplan
 
