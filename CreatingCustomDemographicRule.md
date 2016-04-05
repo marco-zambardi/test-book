@@ -1,7 +1,5 @@
 # Creating a custom demographic rule
 
-*Insert new demographic custom rule screen shot...*  
-
 **Note:**  
 See [Data types, input fields and operators](InputBoxOperators.md) for more about the fields and operators that are available in the UI.  
 
@@ -19,7 +17,7 @@ When you click **Create custom rule**, the **new demographic custom rule** page 
     - **Gender**  
   - You can choose to:  
     - Apply none, one or any combination of these conditions  
-    - or:  
+      or:  
     - Delete them as appropriate, by clicking the **Bin** icon.  
   
    **Note:**  
