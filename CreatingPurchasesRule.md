@@ -1,7 +1,5 @@
 # Creating a purchases rule
 
-*Insert Create purchases rule screen shot...*  
-
 You have four options when creating a purchases rule:
 
 - Use a preset rule  
