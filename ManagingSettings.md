@@ -2,8 +2,6 @@
 
 The **Settings** tab provides access to a series of pages where you can, for example, create a DND policy, or set the local time zone.  
 
-*... to be completed.*  
-
 ## Using the settings section  
 
 Click the **Settings** tab to access the following:  
