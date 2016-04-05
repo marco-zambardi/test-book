@@ -1,7 +1,5 @@
 # Deleting a plan
 
-*Insert Edit plan screen shot...*  
-
 To delete a plan, do the following:
 
 1. Click the **Plans** tab, if not already selected.  
