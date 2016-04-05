@@ -1,7 +1,5 @@
 # Creating a custom purchases rule
 
-*Insert new purchases custom rule screen shot...*  
-
 **Note:**  
 See [Data types, input fields and operators](InputBoxOperators.md) for more about the fields and operators that are available in the UI.  
 
@@ -49,7 +47,7 @@ When you click **Create custom rule**, the **new purchases custom rule** page di
        The category of the store where the order was made.  
   - You can choose to:  
     - Apply none, one or any combination of these conditions  
-    - or:  
+     or:  
     - Delete them as appropriate, by clicking the **Bin** icon.  
   
 5. Add further conditions, if required, as follows:  
