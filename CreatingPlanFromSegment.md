@@ -1,7 +1,5 @@
 # Creating a new plan directly from a saved segment
 
-*Insert Edit Segment screen shot...*  
-
 **IMPORTANT:**  
 Do not attempt to create a new plan directly from an unsaved new or edited segment. All segments must be saved first.  
 
