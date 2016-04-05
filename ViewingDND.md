@@ -9,9 +9,7 @@ To access the **DND policy management** page and view all currently available po
 
 See [Getting started and navigating the UI](NavigatingUI.md) for more about UI page views and icons.
 
-## DND policy management page
-
-*Insert DND policy management page screen shot...*  
+## DND policy management page  
 
 The **DND policy management** page includes a table that is sorted in date order, starting with the oldest entry. It displays the DND policy names and their creation date. If a policy is set as the default, the appropriate radio button, to the left of the table, is highlighted.  
 
