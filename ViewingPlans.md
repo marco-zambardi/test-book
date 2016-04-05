@@ -10,8 +10,6 @@ See [Getting started and navigating the UI](NavigatingUI.md) for more about UI p
 
 ## Plans list view
 
-*Insert Plans list view screen shot...*  
-
 The **Plans list** view is a table that is sorted in month order, starting with the current month. It displays the plan names, the date they are to be run and the user who created the relevant plan.  
 
 The **Plans list** view provides four predefined filters:  
