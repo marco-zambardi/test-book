@@ -17,7 +17,7 @@ When you click **Create custom rule**, the **new demographic custom rule** page 
     - **Gender**  
   - You can choose to:  
     - Apply none, one or any combination of these conditions  
-    - or:  
+      or:  
     - Delete them as appropriate, by clicking the **Bin** icon.  
   
    **Note:**  
