@@ -1,7 +1,5 @@
 # Creating new segments
 
-*Insert New segment screen shot...*  
-
 **Note:**  
 See [Data types, input fields and operators](InputBoxOperators.md) for more about the fields and operators that are available in the UI.  
 
