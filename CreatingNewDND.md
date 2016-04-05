@@ -1,7 +1,5 @@
 # Creating a new DND policy
 
-*Insert New DND policy screen shot...*  
-
 To create a new DND policy, do the following:
 
 1. Click the **Settings** tab, in the **Control bar**  
