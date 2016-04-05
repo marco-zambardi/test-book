@@ -8,9 +8,7 @@ To access the **Segments management** page and view all currently available segm
 
 See [Getting started and navigating the UI](NavigatingUI.md) for more about UI page views and icons.
 
-## Segments list view
-
-*Insert Segments list view screen shot...*  
+## Segments list view  
 
 The **Segments list** view is a table that displays the segment names, their creation date and time, their creator and the total number of contacts for each available segment. 
 
@@ -31,8 +29,6 @@ To display the current total number of available contacts for a segment:
   The current total displays after a short delay, while the system applies the rules to the relevant database.  
 
 ## Segments cards view
-
-*Insert Segments cards view screen shot...*  
 
 The Segments cards view displays each available segment as an individual card, which includes the segment name, the creation date and time, the creator and the total number of available contacts.  
 
