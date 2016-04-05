@@ -1,7 +1,5 @@
 # Editing a DND policy
 
-*Insert Edit DND policy screen shot....*  
-
 To edit a DND policy, do the following:  
 
 1. Click the **Settings** tab, in the **Control bar**  
