@@ -62,28 +62,6 @@ The **compact view** does not provide access to the **User information** panel.
 
 Enlarge the browser window as appropriate, to display the UI **normal view**.  
 
-### UI icons and buttons
-
-The UI views and management pages include the following icons and buttons:
-
-|Page|Icon|Description|
-|----------|----|-----------|
-|UI compact view|||
-||*insert Management page button*|Description.|
-|Plans|||
-||*insert calendar icon*|Description.|
-||*insert list icon*|Description.|
-|Segments|||
-||*insert cards icon*|Description.|
-||*insert list icon*|Description.|
-||*insert circular reload icon*|Description.|
-|Edit segment|||
-||*insert download csv file icon*|Description..|
-||*insert open the dashboard icon*|Description.|
-||*insert view the list of customers icon*|Description.|
-|User information|||
-||*insert language icon*|Description.|
-
 ***Next page:***  
 [Changing the UI display language](ChangingLanguage.md)  
 
