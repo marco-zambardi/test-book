@@ -2,7 +2,7 @@
 
 
 
-[**Understanding contactplan**](UnderstandingContactPlan.md)  
+[Understanding contactplan](UnderstandingContactPlan.md)  
 [Using the UI](UsingUI.md)  
 [Understanding segmentation](UnderstandingSegmentation.md)  
 [Understanding plans](UnderstandingPlans.md)  
