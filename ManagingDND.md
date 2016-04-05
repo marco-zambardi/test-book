@@ -1,6 +1,6 @@
 # Managing Do Not Disturb policy settings
 
-A Do Not Disturb (DND.md) policy is defined by by creating one or more quantity and time-based delivery rules, which are applied to the contacts in the relevant segment when a plan is run. For example, allow a maximum of one delivery each day and up to five deliveries in a week. 
+A Do Not Disturb (DND) policy is defined by by creating one or more quantity and time-based delivery rules, which are applied to the contacts in the relevant segment when a plan is run. For example, allow a maximum of one delivery each day and up to five deliveries in a week. 
 
 See [Managing segments](ManagingSegments.md) and [Managing plans](ManagingPlans.md) for more about segments and plans.  
 
