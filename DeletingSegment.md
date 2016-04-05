@@ -1,7 +1,5 @@
 # Deleting a segment
 
-*Insert Edit Segment screen shot...*  
-
 To delete a segment, do the following:
 
 1. Click the **Segments** tab.  
