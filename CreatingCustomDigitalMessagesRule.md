@@ -50,7 +50,7 @@ When you click **Create custom rule**, the **new digital messages custom rule** 
       The subject of the delivery.  
   - You can choose to:  
     - Apply none, one or any combination of these conditions  
-    - or:  
+     or:  
     - Delete them as appropriate, by clicking the **Bin** icon.  
   
     To apply, for example, the **Delivery ID** condition:  
