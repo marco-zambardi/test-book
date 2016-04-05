@@ -1,7 +1,5 @@
 # Creating a digital messages rule
 
-*Insert Create digital messages rule screen shot...*  
-
 You have four options when creating a digital messages rule:
 
 - Use a preset rule without modifying it  
