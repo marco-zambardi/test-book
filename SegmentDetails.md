@@ -1,7 +1,5 @@
 # Segment details
 
-*Insert Edit Segment screen shot...*  
-
 The details of a particular segment are displayed in the **Edit segment** page, which includes the following fields, controls and panels:  
 
 - The segment name  
