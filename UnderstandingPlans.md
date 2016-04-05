@@ -7,14 +7,14 @@ A plan includes all of the information that is required to make use of the conta
 Plans include the following information, as a minimum:  
 
 - The target date, time and timezone to carry out the plan  
-- The target segment to be used (contacts.md)  
+- The target segment to be used (contacts)  
 - The consumer  
   The external platform that is to receive the list of contacts  
 
 The following can also be defined in a plan:  
 
 - Whether it is a single-shot or a recurring plan  
-- The Do Not Disturb (DND.md) policy  
+- The Do Not Disturb (DND) policy  
   To manage the volume of messages sent to contacts  
 - Test email addresses  
   To send a test delivery before the actual one  
