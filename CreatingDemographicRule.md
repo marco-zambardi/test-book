@@ -1,7 +1,5 @@
 # Creating a demographic rule
 
-*Insert Create demographic rule screen shot...*  
-
 You have four options when creating a demographic rule:
 
 - Use a preset rule without modifying it  
