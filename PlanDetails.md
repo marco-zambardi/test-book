@@ -1,8 +1,5 @@
 # Plan details
 
-
-*Insert Edit plan screen shot...*  
-
 The details of a particular plan are displayed in the **Edit plan** page, which includes the following panels, fields and controls:  
 
 - The plan name  
