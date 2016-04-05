@@ -1,6 +1,4 @@
-# Local settings
-
-*Insert Local settings screen shot...*  
+# Local settings  
 
 **Local settings** enable you to set the first day of the week and the timezone that is applied locally by contactplan.  
 
