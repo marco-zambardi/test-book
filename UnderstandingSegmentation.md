@@ -49,7 +49,7 @@ When more than two rules are used to define a segment, the system applies the in
 Behavioral data can also be referred to as events or actions, because each item of data occurs at a precise moment in time. When creating or editing an event rule, meaning a rule that is applied to behavioral data, you can choose whether the applicable conditions are applied to:  
 
 - All the events, regardless of when they occurred  
-- or:  
+or:  
 - Only those events that happened in a given time frame  
 
 This is know as a time frame condition.  
