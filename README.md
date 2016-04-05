@@ -14,7 +14,7 @@ Contactplan provides a range of powerful, yet readily usable database segmentati
 - Save defined segments for further analysis, or use in a forthcoming delivery  
 - Plan and execute one-off or recurring deliveries, using either the ContactLab platform or a third-party application  
 - Send a test delivery to an audience of your choice  
-- Optionally apply a Do Not Disturb (DND.md) policy as required  
+- Optionally apply a Do Not Disturb (DND) policy as required  
 
 **Note:**
 Not all page links in this draft version of the contactplan user guide are active. Active links appear as hyperlinks, such as [Managing segments](ManagingSegments.md). Inactive links display as text in square brackets, for example, [Managing users].  
