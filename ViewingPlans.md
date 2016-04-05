@@ -23,9 +23,7 @@ Click the relevant filter to see only the saved plans in that category.
 
 See [Plan details](PlanDetails.md) for more about **Ready**, **Draft** and **Archived** plans.  
 
-## Plans calendar view
-
-*Insert Plans calendar view screen shot...*  
+## Plans calendar view  
 
 The default **Plans calendar** view displays plans on a monthly calendar page, starting with the current month. The current date is highlighted in light gray.  
 
