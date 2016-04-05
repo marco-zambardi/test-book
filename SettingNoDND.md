@@ -1,6 +1,4 @@
-# Setting the default DND policy to none
-
-*Insert DND policy management page screen shot...*  
+# Setting the default DND policy to none  
 
 To set the default DND policy to none, do the following:  
 
