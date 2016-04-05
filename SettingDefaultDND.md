@@ -1,7 +1,5 @@
 # Setting the default DND policy
 
-*Insert DND policy management page screen shot...*  
-
 To set the default DND policy, do the following:  
 
 1. Click the **Settings** tab, in the **Control bar**  
