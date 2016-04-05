@@ -1,7 +1,5 @@
 # Downloading a segment contact list
 
-*Insert Edit Segment screen shot...*  
-
 To download a segment contact list, do the following:
 
 1. Click the **Segments** tab.  
