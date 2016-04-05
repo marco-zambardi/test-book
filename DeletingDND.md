@@ -1,7 +1,5 @@
 # Deleting a DND policy
 
-*Insert Edit DND policy screen shot....*  
-
 To delete a DND policy, do the following:  
 
 1. Click the **Settings** tab, in the **Control bar**  
