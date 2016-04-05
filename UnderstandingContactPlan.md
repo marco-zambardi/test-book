@@ -8,7 +8,7 @@ Contactplan includes a wide range of features, such as:
 
 - Authentication and access  
   Only authenticated users can access contactplan. In a similar way, the resources a user has access to and the operations they can carry out, is determined by the user profile and access permissions that are assigned to them. For example, some users may not be able to delete or modify resources that have been created by others.  
-- An intuitive user interface (UI.md)  
+- An intuitive user interface (UI)  
   The UI enables all users, whether they be data specialists, marketing experts or company managers, to retrieve just the target group they require from the database without, for example, knowledge about SQL or the database itself. See [Using the UI](UsingUI.md) for more details.  
 - Robust segmentation tools  
   Contactplan enables users to define and freely combine selection conditions, which are then applied to the demographic and behavioral data in the appropriate database, to identify the contacts that make up a segment. The relevant segment can then be used, for example, as the target audience for digital marketing operations. See [Understanding segmentation](UnderstandingSegmentation.md) for more details.  
