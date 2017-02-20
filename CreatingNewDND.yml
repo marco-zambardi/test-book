@@ -1,0 +1,84 @@
+title: Creating a new DND policy
+content:
+  |
+    # Creating a new DND policy
+
+    ![DND policy page](/images/images/en/guide/CreateDND.png)
+
+    **The Create new DND policy page**
+
+    To create a new DND policy, do the following:
+
+    1. Click the **Settings** tab, in the **Control bar**
+
+      The **Segmentation settings** page displays.
+
+    2. Click the **Do Not Disturb Policy** tab.
+
+      The **DND policy management** page displays.
+
+    3. Click **Create new DND policy**
+
+      The **Create new DND policy** page displays.
+
+    4. Enter a name of your choice for the new policy, in the first text box.
+
+      Ensure that the name you use is unique, descriptive of the policy, and can easily be recognized by yourself and others in the future.
+
+    5. Under **Allowed sending: max:**
+
+      - Enter the appropriate numeric value in the first box
+      - Click the downwards pointing arrow to the right of the second box, and select the appropriate time measurement from the drop-down list, for example, **day**
+
+    6. If you want to add a further rule to the policy, select the **Add rule** check box.
+
+      The conditional control boxes for a second rule display.
+
+    7.  Under **and max**, do the following:
+
+      - Enter the appropriate numeric value in the first box
+      - Click the downwards pointing arrow to the right of the second box, and select the appropriate time measurement from the drop-down list, for example, **month**
+
+    8. When the DND policy rules are defined as intended, click **Save**.
+
+      You are returned to the **DND policy management** page and the new policy is added to the list.
+
+    **Note:**
+
+    Currently, no semantic check is carried out by the system on the DND policy. You must ensure that the policy rules are meaningful.
+
+    ## Exiting the New DND policy page
+
+    You can exit the **Create new DND policy** page at any time, without creating a new policy, by clicking the **X** icon, positioned in the top-right corner of the page.
+
+    ***Next page:***
+    
+    [Editing a DND policy](../EditingDND/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing DND policy settings](../ManagingDND/)
+      - [Viewing DND policies](../ViewingDND/)
+      - [Editing a DND policy](../EditingDND/)
+      - [Setting the default DND policy](../SettingDefaultDND/)
+      - [Setting the default DND policy to none](../SettingNoDND/)
+      - [Setting a DND policy as global](../SettingGlobalDND/)
+      - [Deleting a DND policy](../DeletingDND/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

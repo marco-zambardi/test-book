@@ -1,0 +1,59 @@
+title: Not like operator type
+content:
+  |
+    # Not like operator type
+
+    The **Not like** operator is used to select all those contacts for which the relevant attribute does not at least partially match the value entered in the condition input field. This means that the operator implicitly uses wildcards to match the input field with the relevant attribute values in the database.
+
+    **Example:**
+
+    Setting the *Email* condition to **Not like**, with 'gmail' as the input field value, selects all those contacts whose email address does not include 'gmail' anywhere in the relevant string.
+
+    The **Not like** operator applies to [string](../String/) data types.
+
+    See [Input field types](../InputFieldTypes/) for more about each input field.
+
+    ***Next page:***
+
+    [Not equal to](../NotEqualTo/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+        - [Equal to](../EqualTo/)
+        - [Like](../Like/)
+        - [Not equal to](../NotEqualTo/)
+        - [Greater than](../GreaterThan/)
+        - [Less than](../LessThan/)
+        - [Equal to or greater than](../EqualToOrGreaterThan/)
+        - [Equal to or less than](../EqualToOrLessThan/)
+        - [Between](../Between/)
+        - [Is null](../IsNull/)
+        - [Is not null](../IsNotNull/)
+        - [Start with](../StartWith/)
+        - [End with](../EndWith/)
+        - [Is date equals](../IsDateEquals/)
+        - [Is month equals](../IsMonthEquals/)
+        - [Is year equals](../IsYearEquals/)
+        - [Is day equals](../IsDayEquals/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

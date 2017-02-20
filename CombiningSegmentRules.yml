@@ -1,0 +1,53 @@
+title: Combining segment rules
+content:
+  |
+    # Combining segment rules
+
+    Two rules that make up a segment, such as rule A and rule B, can be combined by using the **AND**, **OR** or **EXCEPT** logic operators, also referred to as **interaction conditions**.
+
+    - **AND**
+
+      The result is the set of contacts that match both the first and the second rule. This is equivalent to the intersection of contacts selected by both rules.
+
+    - **OR**
+
+      The result is the set of contacts that match either the first or the second rule. This is equivalent to the union of contacts selected by each rule.
+
+    - **EXCEPT**
+
+      The result is the set of contacts that are selected by the first rule, but not by the second rule. This is equivalent of subtracting the contacts selected by rule B from those selected by rule A.
+
+    When more than two rules are used to define a segment, the system applies the interaction conditions sequentially. Contactplan calculates the result of combining the first and second rule. This result is then combined with the third rule, using the interaction condition between the second and third rule, and so on.
+
+    ***Next page:***
+    
+    [Time frame conditions](../TimeFrameConditions/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Combining conditions within a rule](../CombiningConditionsInRule/)
+      - [Time frame conditions](../TimeFrameConditions/)
+      - [Analytical queries](../AnalyticalQueries/)
+      - [Correlation-based queries](../CorrelationBasedQueries/)
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding plans](../UnderstandingPlans/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

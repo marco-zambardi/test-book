@@ -1,0 +1,41 @@
+title: Data types
+content:
+  |
+    # Data types
+
+    Contactplan processes three main types of data. Click the appropriate link for more about each data type:
+
+    - [String](../String/)
+    - [Numeric](../Numeric/)
+    - [Date](../Date/)
+
+    ***Next page:***
+    
+    [String](../String/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [String](../String/)
+    - [Numeric](../Numeric/)
+    - [Date](../Date/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Input field types](../InputFieldTypes/)
+      - [Operator types](../OperatorTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

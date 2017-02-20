@@ -1,0 +1,56 @@
+title: Analytical queries
+content:
+  |
+    # Analytical queries
+
+    An analytical query enables a comparison to be made between:
+
+    - How often an event occurs that has specific conditions applied to it
+
+      For example, buying a yellow bag, or spending more than 200 euro.
+
+      and:
+
+    - All events of the same kind
+
+      For example, making a purchase.
+
+    **Example:**
+
+    - All those contacts that bought a yellow bag ***on at least 10% of the occasions*** they purchased something
+
+      or:
+
+    - All those contacts that spent more than 200 euro ***on less than 5% of the occasions*** they spent money
+
+    ***Next page:***
+    
+    [Correlation-based queries](../CorrelationBasedQueries/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Combining conditions within a rule](../CombiningConditionsInRule/)
+      - [Combining segment rules](../CombiningSegmentRules/)
+      - [Time frame conditions](../TimeFrameConditions/)
+      - [Correlation-based queries](../CorrelationBasedQueries/)
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding plans](../UnderstandingPlans/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

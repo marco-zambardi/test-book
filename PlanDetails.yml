@@ -1,0 +1,158 @@
+title: Plan details
+content:
+  |
+    # Plan details
+
+    ![Edit plan page](/images/images/en/guide/EditPlan.png)
+
+    **The Edit plan page**
+
+    The details of a particular plan are displayed in the **Edit plan** page. This page varies slightly depending upon whether:
+
+    - You are viewing a plan in the **Ready**, **Draft**, **Archive**, **Error** or **Recurrence** category
+    - It is a **One shot** or a **Repeated** plan
+
+    The page includes the following panels, fields and controls:
+
+    - The plan name
+
+    - The **When** panel, which includes two tabs:
+
+      - One shot:
+
+        - The **Day & hour** and **Time zone** of the plan
+
+      - Repeated:
+
+        - The **Day & hour**, **Time zone** and **Repetition** interval of the plan
+        - The **End date** for the recurring plan
+        - The **Load recurrences** button
+
+        See [Creating new plans](../CreatingNewPlans/) for more about the **Repeated** tab.
+
+    - The **Who** panel, including:
+
+      - The **Segment** used for the plan
+
+      - The DND policy, if applied
+
+      - An **Advanced options** section
+
+        Click the downwards pointing arrow to the left, to access the **List generation** and **Set contacts number** options. See [Creating new plans](../CreatingNewPlans/) for more details.
+
+    - The **Action** panel, including:
+
+      - The **Consumer** panel, which shows the external target for running the plan
+
+        See [Creating new plans](../CreatingNewPlans/) for more details.
+
+    - A series of buttons at the bottom of the page:
+
+      - **Back to plans list**
+
+        Returns you to the **Plans list** view of the **My plans** page.
+
+      - **Delete**
+
+        Deletes the plan.
+
+        See [Deleting a plan](../DeletingPlans/) for more details.
+
+      **Note:**
+
+      This action cannot be reversed.
+
+      If you are viewing an **Archive** plan, this button only displays if you have Admin permissions.
+
+      - **Download**
+
+        Enables you to download the appropriate list in CSV format. Only displays for **Ready**, **Archive** and **Error** plans, but not if they are recurring.
+
+      **Note**
+
+      The list only includes the contact ID and email address. However, due to the sensitive nature of this information, only users with Admin permissions can download a list.
+
+      - **Reopen**
+
+        Enables you to re-open a plan for editing. Only displays for **Ready** plans, or for **Archive** plans if you have Admin permissions.
+
+        See [Editing a plan](../EditingPlan/) for more details.
+
+      **Note:**
+
+      This action cannot be reversed.
+
+      - **Save As Draft**
+
+        Enables you to save a **Draft** plan for later editing. Only displays for **Draft** and **Error** plans.
+
+        See [Editing a plan](../EditingPlan/) for more details.
+
+      - **Save**
+
+        Enables you to save a **Draft** plan as **Ready**. Only displays for **Draft** and **Error** plans.
+
+    **Note:**
+
+    If you are viewing plans using the **Archive** filter, the above buttons, apart from the **Back to plans list** and the **Download** buttons, are not normally shown. See **Downloading contacts from an Archive plan** below for more details. If you have Admin permissions, the **Delete** and **Reopen** buttons also display.
+
+    ## Draft, Ready, Archive, Error and Recurrence plans
+
+    A **Draft** plan is one that has been created, but is not yet activated as ready. It is a plan that is perhaps not yet complete, or one that has been saved in an unready state for another reason. **Draft** plans can be edited, even if the time and date that it is set to run has passed. See [Editing a plan](../EditingPlan/) for more details.
+
+    A **Ready** plan is a finished plan that has been assigned to be run at a particular time on a selected date. **Ready** plans can be edited up until the time and date that they are due to run. See [Editing a plan](../EditingPlan/) for more details.
+
+    An **Archive** plan is a **Ready** plan that has been run. **Archive** plans can only be re-opened or deleted by users with Admin permissions. See [Editing a plan](../EditingPlan/) for more details.
+
+    An **Error** plan is one that has resulted in an error. For example, a contact list has not been generated, or a campaign has not been created in Contactsend.
+
+    A **Recurrence** plan is one that is set to repeat and end as defined. A **Recurrence** plan can be included in any of the other categories, if it matches the appropriate conditions.
+
+    ### Downloading contacts from an Archive plan
+
+    Do the following:
+
+    1. Click **Archive** in the **Plans list** view.
+
+    2. Locate and click the required plan.
+
+      The **Edit plan** page displays.
+
+    3. Click **Download**.
+
+      An Explorer window displays.
+
+    4. Navigate to where you want to store the file, and click **Save**.
+
+    5. The file is saved and the Explorer window closes.
+
+    ***Next page:***
+
+    [Creating new plans](../CreatingNewPlans/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Viewing plans](../ViewingPlans/)
+    - [Creating new plans](../CreatingNewPlans/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

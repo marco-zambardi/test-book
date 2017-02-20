@@ -1,0 +1,52 @@
+title: Multiple options field type
+content:
+  |
+    # Multiple options field type
+
+      Multiple options input fields are used by default, for all attributes that have between five and 50 different values stored in the database.
+
+    ## Use
+
+    The UI displays a selectable drop-down list showing the available values. A range of values are displayed and the remainder can be accessed by scrolling the list up or down.
+
+    A single value can be selected by clicking it. The value is then highlighted. Further values can be added to the initial selection, by pressing CTRL and simultaneously clicking the additional values. The newly selected values are also highlighted.
+
+    A previously selected value can be deselected, by pressing CTRL and simultaneously clicking the value. The value is no longer highlighted.
+
+    When more than one value is chosen, the condition selects all those contacts that satisfy at least one of the relevant values.
+
+    ***Next page:***
+
+    [Autocomplete](../Autocomplete/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Autocomplete](../Autocomplete/)
+        - [Free text](../FreeText/)
+        - [Drill down](../DrillDown/)
+        - [Number](../Number/)
+        - [Calendar](../Calendar/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,67 @@
+title: Date data type
+content:
+  |
+    # Date data type
+
+    Attributes with a *date* data type have a value that uses the DD/MM/YYYY format.
+
+    ## Permissible operators
+
+    - [Equal to](../EqualTo/)
+    - [Not equal to](../NotEqualTo/)
+    - [Greater than](../GreaterThan/)
+    - [Less than](../LessThan/)
+    - [Equal to or greater than](../EqualToOrGreaterThan/)
+    - [Equal to or less than](../EqualToOrLessThan/)
+    - [Between](../Between/)
+    - [Is null](../IsNull/)
+    - [Is not null](../IsNotNull/)
+    - [Is date equals](../IsDateEquals/)
+    - [Is month equals](../IsMonthEquals/)
+    - [Is year equals](../IsYearEquals/)
+    - [Is day equals](../IsDayEquals/)
+
+    **Note**
+
+    The following applies when expressing conditions for attributes with a *date* data type:
+
+    - Greater than = After the specified date
+    - Less than = Before the specified date
+    - Between = Within the range specified by the two dates
+
+    ## Permissible input fields
+
+    - [Calendar](../Calendar/)
+
+    Click the appropriate link above for more about each operator or input field.
+
+    ***Next page:***
+    
+    [Input field types](../InputFieldTypes/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+        - [String](../String/)
+        - [Numeric](../Numeric/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

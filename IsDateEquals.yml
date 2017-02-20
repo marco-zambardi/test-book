@@ -1,0 +1,58 @@
+title: Is date equals operator type
+content:
+  |
+    # Is date equals operator type
+
+    The **Is date equals** operator is used to select dates that exactly match the **DD/MM/YYYY** value entered in the condition input field. Any hours and minutes values associated with a date are ignored.
+
+    **Example:**
+
+    Setting the *Date* condition of a **Birth date** field to **Is date equals**, and entering 12/12/1978 as the input field value, selects all those contacts whose birth date matches that value.
+
+    The **Is date equals** operator applies to [date](../Date/) data types.
+
+    See [Input field types](../InputFieldTypes/) for more about each input field.
+
+    ***Next page:***
+
+    [Is month equals](../IsMonthEquals/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+        - [Like](../Like/)
+        - [Not like](../NotLike/)
+        - [Not equal to](../NotEqualTo/)
+        - [Greater than](../GreaterThan/)
+        - [Less than](../LessThan/)
+        - [Equal to or greater than](../EqualToOrGreaterThan/)
+        - [Equal to or less than](../EqualToOrLessThan/)
+        - [Between](../Between/)
+        - [Is null](../IsNull/)
+        - [Is not null](../IsNotNull/)
+        - [Start with](../StartWith/)
+        - [End with](../EndWith/)
+        - [Is month equals](../IsMonthEquals/)
+        - [Is year equals](../IsYearEquals/)
+        - [Is day equals](../IsDayEquals/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

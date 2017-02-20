@@ -1,0 +1,50 @@
+title: Correlation-based queries
+content:
+  |
+    # Correlation-based queries
+
+    A correlation-based query enables a relationship to be established between two different events, which take place during a given period of time.
+
+    **Example:**
+
+    - All those contacts that bought a yellow bag ***within 5 days from*** having opened the *'New yellow bags in store!'* newsletter
+
+      or:
+
+    - All those contacts that placed an order ***more than 30 days after*** having clicked on the link in the newsletter
+
+    See [Creating a segment by correlating rules](../CreatingCorrelationSegment/) for more about correlation-based queries.
+
+    ***Next page:***
+    
+    [Understanding plans](../UnderstandingPlans/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Combining conditions within a rule](../CombiningConditionsInRule/)
+      - [Combining segment rules](../CombiningSegmentRules/)
+      - [Time frame conditions](../TimeFrameConditions/)
+      - [Analytical queries](../AnalyticalQueries/)
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding plans](../UnderstandingPlans/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+    - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

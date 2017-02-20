@@ -1,0 +1,76 @@
+title: Deleting an existing segment rule
+content:
+  |
+    # Deleting an existing segment rule
+
+    To delete an existing rule:
+
+    1. Locate the appropriate rule in the **Rule list** area of the **Summary panel**, which is displayed to the right of the **Edit segment** page, and click the associated **Bin** icon
+
+      See [Segment Summary panel](../SegmentSummaryPanel/) for more about the **Summary panel**.
+
+      The rule is deleted. Deleting a rule cannot be reversed.
+
+      **Note:**
+
+      If two rules are correlated, you must click the **Unlink events** icon to remove the correlation, before you can delete one or both of the rules. See [Creating a segment by correlating rules](../CreatingCorrelationSegment/) and [UI icons](../UIIcons/) for more details.
+      
+    2. Check the **interaction conditions** between the remaining rules to ensure that they are still valid.
+
+      See [Modifying the interaction condition between segment rules](../ModifyingInteractionCondition/) and [Segment Summary panel](../SegmentSummaryPanel/) for more about **interaction conditions**.
+
+    3. Select and delete other rules, or carry out other edit actions as required.
+
+      See [Editing a segment](../EditingSegment/) for other editing options.
+
+    **IMPORTANT:**
+
+    If you do not click **Save** once you have finished editing the segment, all edits are discarded and the segment remains unchanged.
+
+    ***Next page:***
+
+    [Adding a new segment rule](../AddingNewSegmentRule/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Editing a segment](../EditingSegment/)
+      - [Changing the segment name](../ChangingSegmentName/)
+      - [Modifying an existing segment rule](../ModifyingExistingSegmentRule/)
+      - [Modifying correlated rules](../ModifyingCorrelatedRules/)
+      - [Adding a new segment rule](../AddingNewSegmentRule/)
+      - [Modifying the interaction condition between segment rules](../ModifyingInteractionCondition/)
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    #### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

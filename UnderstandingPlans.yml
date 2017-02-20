@@ -1,0 +1,89 @@
+title: Understanding plans
+content:
+  |
+    # Understanding plans
+
+    A plan includes all of the information that is required to use the contacts identified in a segment as, for example, the target audience for newsletters and other marketing activities.
+
+    ## Plan components
+
+    As a minimum, plans include the following information:
+
+    - The target date, time and time zone to carry out the plan
+
+    - The target segment to be used (contacts)
+
+    - The consumer
+
+      The platform, external to Contactplan, which is to receive the list of contacts.
+
+    The following can also be defined in a plan:
+
+    - Whether it is a single-shot or a recurring plan
+
+    - The Do Not Disturb (DND) policy
+
+      To manage the volume of messages sent to contacts
+
+    - The number of contacts that should be included in the contact list
+
+    - What action to take if the required number of contacts is not available in the appropriate segment
+
+    ### Target audience
+
+    The target audience of a plan is defined by:
+
+    - The contacts selected by the segment
+
+    - Any DND policy that is applied
+
+      All contacts that have already reached the maximum number of communications allowed by the policy are removed.
+
+    - The number of contacts selected in the **Set contacts number** field of the **Advanced options** section
+
+      Defines whether to use **All** the contacts in the segment, an **Exact** number, or a **Range** between two limits that you specify
+
+    ## Plan processing
+
+    The resulting list of contacts is passed to the selected consumer for the plan to be run. The following consumers are available as standard:
+
+    - A **Clab Filter Creator** plug-in
+
+      Used to create a test filter and the actual filter in Contactsend.
+
+    - A **Clab Campaign Creator** plug-in
+
+      Used to create a campaign in Contactsend.
+
+    - A **Consumer SFTP** plugin
+
+      Saves the list of contacts to an external storage space, from where it can be retrieved manually, or automatically by another system.
+
+    The Contactplan architecture has been designed so that a new plugin can be added, without a loss of service.
+
+    ***Next page:***
+
+    [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,58 @@
+title: Is year equals operator type
+content:
+  |
+    # Is year equals operator type
+
+    The **Is year equals** operator is used to select dates with a year value that exactly matches the **YYYY** component of the date that is entered in the condition input field. All other date components are ignored.
+
+    **Example:**
+
+    Setting the *Date* condition of a **Birth date** field to **Is year equals**, and entering 12/12/1978 as the input field value, selects all those contacts whose birth year matches that value. In this instance, all contacts born in 1978 are selected.
+
+    The **Is year equals** operator applies to [date](../Date/) data types.
+
+    See [Input field types](../InputFieldTypes/) for more about each input field.
+
+    ***Next page:***
+
+    [Is day equals](../IsDayEquals/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+        - [Like](../Like/)
+        - [Not like](../NotLike/)
+        - [Not equal to](../NotEqualTo/)
+        - [Greater than](../GreaterThan/)
+        - [Less than](../LessThan/)
+        - [Equal to or greater than](../EqualToOrGreaterThan/)
+        - [Equal to or less than](../EqualToOrLessThan/)
+        - [Between](../Between/)
+        - [Is null](../IsNull/)
+        - [Is not null](../IsNotNull/)
+        - [Start with](../StartWith/)
+        - [End with](../EndWith/)
+        - [Is date equals](../IsDateEquals/)
+        - [Is month equals](../IsMonthEquals/)
+        - [Is day equals](../IsDayEquals/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

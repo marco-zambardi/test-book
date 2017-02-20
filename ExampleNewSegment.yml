@@ -1,0 +1,121 @@
+title: Example of creating a new segment
+content:
+  |
+    # Example of creating a new segment
+
+    To define a segment for all females over the age of 25, living in London, who have clicked on an email link in the last three months:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Click **Create new segment**.
+
+      The **New segment** page displays.
+
+    3. Select the system generated segment name and enter one of your choice.
+
+    4. Click **Create demographic rule**.
+
+      The **Create demographic rule** page displays.
+
+    5. Click **Create custom rule**.
+
+      The **Demographic custom rule** page displays.
+
+    6. Select the system generated custom rule name and enter one of your choice.
+
+    7. Under **Match**, select **ALL**.
+
+    8. If the **Gender** condition is displayed, select **Equal to** in the first box, then **F** in the second box.
+
+      **Note:**
+
+      The conditions that are automatically displayed depend upon the segmentation **Field settings** for the database that you are using. If, for example, the **Gender** condition is not displayed, use the **Add condition** controls to select it, as described below. If the condition you are looking for is not automatically displayed and is not in the **Add condition** drop-down list, it has not been made available for the database. See [Segmentation settings](../SegmentationSettings/) for more details about **Field settings**.
+
+    9. Under **Add condition**, select **Birthday date**, then:
+
+      - In the first box, select **Greater than**
+      - In the second box, enter **01/01/1991**
+
+    10. Under **Add condition**, select **City**, then:
+
+      - In the first box, select **Equal to**
+      - In the second box, enter **London**
+
+    11. Click **Add** to save the demographic rule.
+
+      You are returned to the **New segment** page.
+
+    12. Click **Create digital messages rule**.
+
+      The **Create digital messages rule** page displays.
+
+    13. Click **Create custom rule**.
+
+      The **Digital messages custom rule** page displays.
+
+    14. Select the system generated custom rule name and enter one of your choice.
+
+    15. Under **Match**, select **ALL**.
+
+    16. Under **Action**, select **Have clicked**.
+
+    17. Under **Time frame**:
+
+      - Select the **In the last...** radio button
+      - Enter **3** in the first box
+      - Click the downwards pointing arrow to the right of the second box, and select **months**
+
+    18. Click **Add** to save the digital messages rule.
+
+      You are returned to the **New segment** page.
+
+    19. Click **Save** to save the new segment.
+    
+      You are returned to the **My segments** page.
+
+    ***Next page:***
+
+    [Creating a demographic rule](../CreatingDemographicRule/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Creating new segments](../CreatingNewSegments/)
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

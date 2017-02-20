@@ -1,0 +1,63 @@
+title: Not equal to operator type
+content:
+  |
+    # Not equal to operator type
+
+    The **Not equal to** operator is used to select all those contacts that do not match the value entered in the condition input field.
+
+    **Example:**
+
+    Setting the *First Name* condition to **Not equal to**, with *Sam* as the input field value, selects all those contacts whose first name is not *Sam*. Contacts whose first name is, for example, Samantha, Sammy, Paul, John and so on, are selected.
+
+    The **Not equal to** operator applies to [string](../String/), [numeric](../Numeric/) and [date](../Date/) data types.
+
+    **Note:**
+
+    The **Not equal to** operator can also be applied when multiple values are set for a given attribute. It is used to select those contacts for which the relevant attribute value does not match any of those entered in the condition input field. In this instance, the **Not equal to** operator applies to [string](../String/) data types only.
+
+    See [Input field types](../InputFieldTypes/) for more about each input field.
+
+    ***Next page:***
+
+    [Greater than](../GreaterThan/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+        - [Equal to](../EqualTo/)
+        - [Like](../Like/)
+        - [Not like](../NotLike/)
+        - [Greater than](../GreaterThan/)
+        - [Less than](../LessThan/)
+        - [Equal to or greater than](../EqualToOrGreaterThan/)
+        - [Equal to or less than](../EqualToOrLessThan/)
+        - [Between](../Between/)
+        - [Is null](../IsNull/)
+        - [Is not null](../IsNotNull/)
+        - [Start with](../StartWith/)
+        - [End with](../EndWith/)
+        - [Is date equals](../IsDateEquals/)
+        - [Is month equals](../IsMonthEquals/)
+        - [Is year equals](../IsYearEquals/)
+        - [Is day equals](../IsDayEquals/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,89 @@
+title: Segment details
+content:
+  |
+    # Segment details
+
+    ![Edit segment](/images/images/en/guide/EditSegment.png)
+
+    **The Edit segment page**
+
+    The details of a particular segment are displayed in the **Edit segment** page, which includes the following fields, controls and panels:
+
+    - The segment name
+
+    - Controls to add further rules to the segment
+
+      See [Editing a segment](../EditingSegment/) for more details.
+
+    - The **Summary** panel
+
+      Positioned to the right of the page. See [Segment Summary panel](../SegmentSummaryPanel/) for more details.
+
+    - A series of buttons at the bottom of the page:
+
+      - **Back to segments list**
+
+        Returns you to the **Segments list** view of the **My segments** page.
+
+      - **Delete**
+
+        Deletes the segment.
+
+        See [Deleting a segment](../DeletingSegment/) for more details.
+
+        **Note:**
+
+        This action cannot be reversed.
+
+      - **Save**
+
+        Saves the segment.
+
+      - **Start new plan**
+      
+        Enables you to create a new plan, which uses the current segment, by opening the **New plan** page. See [Creating new plans](../CreatingNewPlans/) for more details.
+
+    ***Next page:***
+
+    [Segment Summary panel](../SegmentSummaryPanel/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

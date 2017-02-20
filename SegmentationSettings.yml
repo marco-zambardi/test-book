@@ -1,0 +1,113 @@
+title: Segmentation settings
+content:
+  |
+    # Segmentation settings
+
+    ![Segmentation settings page](/images/images/en/guide/SegmentationSettings.png)
+
+    **The segmentation Field setting page**
+
+    The segmentation **Field setting** page enables you to view the settings for each segmentation condition that is available to be applied when you create a custom demographic, digital messages or purchases rule. See [Creating a custom demographic rule](../CreatingCustomDemographicRule/), [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/) and [Creating a custom purchases rule](../CreatingCustomPurchasesRule/) for more details.
+
+    The conditions are configured on a customer-by-customer basis, when the system is set up. However, if you have Admin permissions, you can edit certain settings and choose whether individual segmentation conditions are available when defining rules.
+
+    To access the segmentation **Field setting** page, click the **Settings** tab in the **Control bar**. The **Field setting** page displays.
+
+    ## Field setting page
+
+    ### Tabs
+
+    The segmentation **Field setting** page consists of a series of tabs, each of which includes a table of the segmentation conditions relevant to that particular category:
+
+    - **Demographic**
+
+      For example, the birthday, last name or email address of a customer.
+
+    - **Click**
+
+      For example, the click time stamp, identifier or kind of click.
+
+    - **Orders**
+
+      For example, the payment method, currency or user identifier.
+
+    - **Order_lines**
+
+      For example, the purchase date, quantity or price.
+
+    - **Delivered**
+
+      For example, the delivery recipient, mail domain or newsletter identifier.
+
+    - **View**
+
+      For example, the view IP address, country code or type.
+
+    The **Order_lines** and **Orders** tabs also enable a range of custom field types to be defined, such as custom string and date fields.
+
+    ### Table columns
+
+    All tables have the same columns, which are editable as described:
+
+    - **Visible**
+
+      Select to allow the relevant segmentation condition to be available on the appropriate custom demographic, digital messages or purchases rule page. Highlighted in green when selected.
+
+    - **Field name**
+
+      The name of the field in the database. For information purposes only. Cannot be edited.
+
+    - **Display name**
+
+      The name for the field that is displayed on the relevant rule page, either in the main body of the page, or  in the **Add condition** panel. The **Field name** is displayed by default. Click to edit the name as required.
+
+      **Note:**
+
+      If you change the **Display name**, the system language settings are overridden, and the name you define appears the same in all languages.
+
+    - **Data type**
+
+      The field data type. For information purposes only. Cannot be edited. See [Data types](../DataTypes/) for more details.
+
+    - **L.O.V. update**
+
+      The **List of Values update** displays the date when the relevant values were last updated in the database. Click the **Reload** icon to update. See [UI icons](../UIIcons/) for more details.
+
+      **Note:**
+
+      The **Reload** icon only displays when a **List of Values** is available.
+
+    - **Default**
+
+      Identifies the fields that are to appear in the main body of the relevant custom rule page. Select the appropriate checkbox as required.
+
+    - **Aggregable**
+
+      Identifies the fields to which operators such as SUM, COUNT, MAX, MIN and AVERAGE can be applied. Select the appropriate checkbox as required.
+
+    Once you have made your changes, click **Update** to save your settings.
+
+    ***Next page:***
+
+    [Local settings](../LocalSettings/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing settings](../ManagingSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

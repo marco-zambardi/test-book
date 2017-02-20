@@ -1,0 +1,188 @@
+title: Editing a plan
+content:
+  |
+    # Editing a plan
+
+    ![Edit plan page](/images/images/en/guide/EditPlan.png)
+
+    **The Edit plan page for a Ready plan showing the One shot tab**
+
+    **Note:**
+
+    See [Using data types, input fields and operators](../InputBoxOperators/) for more about the fields and operators that are available in the UI.
+
+    ## Re-opening a Ready or Archive plan for editing
+
+    **Note:**
+
+    **Archive** plans can only be re-opened for editing by users with Admin permissions.
+
+    To re-open and edit a plan, do the following:
+
+    1. Click the **Plans** tab, if not already selected.
+
+      The **My plans** page displays.
+
+    2. Locate the required plan using the **Plans list** or the **Plans calendar** view.
+
+      **Note:**
+
+      To edit all instances of a recurring plan, it must be opened from the **Recurrence** tab of the **Plans list** view page. If you open a recurring plan instance from the **Ready** tab, you can only edit that instance. See [Managing plans](../ManagingPlans/) for more details.
+
+      A recurring plan can also be started or stopped from the **Recurrence** tab.
+
+    3. Click the required plan.
+
+       The **Edit plan** page displays, but the plan cannot be edited.
+
+    4. Click **Reopen**.
+
+       A warning informs you that the operation cannot be undone.
+
+    5. Click **Confirm**.
+
+      The **Edit plan** page displays and you can now edit the plan.
+
+    6. Edit the required fields as follows:
+
+      - Change the plan name as required
+
+      - Under **When**:
+
+        - Do one of the following:
+
+          - Enter the new delivery date and time
+
+            or:
+
+          - Click the calendar icon to display the calendar and use its controls to change the date, then enter a time
+          - Under **Time zone**, click the downwards pointing arrow to the right of the box and select the appropriate time zone, if it needs to be changed
+
+        **Note:**
+
+        If you want to change a **One shot** plan to a **Repeated** plan, or a **Repeated** plan to a **One shot** plan, click the appropriate tab and see [Creating new plans](../CreatingNewPlans/) for the appropriate steps.
+
+      - Under **Who**:
+
+        - In the **Segment** and **DND policy** fields:
+
+          - Click the **Pencil** icon, positioned to the right of the appropriate field
+          - Make a new selection from the drop-down list, as required
+
+       - Under **Action**:
+
+        - Click the downwards pointing arrow to the right of the box under **Consumer**, and select a different target, as required
+
+          See [Creating new plans](../CreatingNewPlans/) and [Example of creating a new plan](../ExampleNewPlan/) for more about consumers.
+
+    7. When you have finished editing the plan, click:
+
+      - **Save as draft**
+
+        or:
+
+      - **Save** to save the plan as **Ready**
+
+      to apply your changes.
+
+    The plan is updated and you are returned to the **My plans** page.
+
+    ## Editing a Draft plan
+
+    To edit a **Draft** plan, do the following:
+
+    1. Click the **Plans** tab, if not already selected.
+
+      The **My plans** page displays.
+
+    2. Locate the required plan using the **Plans list** or the **Plans calendar** view.
+
+    3. Click the required plan.
+
+      The **Edit plan** page displays.
+
+    4. Edit the required fields as follows:
+
+      - Change the plan name as required
+
+      - Under **When**:
+
+        - Do one of the following:
+
+          - Enter the new delivery date and time
+
+            or:
+
+          - Click the calendar icon to display the calendar and use its controls to change the date, then enter a time
+          - Under **Time zone**, click the downwards pointing arrow to the right of the box and select the appropriate time zone, if it needs to be changed
+
+        **Note:**
+
+        If you want to change a **One shot** plan to a **Repeated** plan, or a **Repeated** plan to a **One shot** plan, click the appropriate tab and see [Creating new plans](../CreatingNewPlans/) for the appropriate steps.
+
+      - Under **Who**:
+
+        - In the **Segment** and **DND policy** fields:
+
+          - Click the **Pencil** icon, positioned to the right of the appropriate field
+          - Make a new selection from the drop-down list, as required
+
+        - Under **Action**:
+
+        - Click the downwards pointing arrow to the right of the box under **Consumer**, and select a different target, as required
+
+          See [Creating new plans](../CreatingNewPlans/) and [Example of creating a new plan](../ExampleNewPlan/) for more about consumers.
+
+    5. When you have finished editing the plan, click:
+
+      - **Save as draft**
+
+        or:
+
+      - **Save** to save the plan as **Ready**
+
+      to apply your changes.
+
+    The plan is updated and you are returned to the **My plans** page.
+
+    **Note:**
+
+    If a **Draft** plan is saved as **Ready** following an edit, the draft is removed from the **Plans list** and the **Plans calendar** view, and it is no longer available.
+
+    If you delete a segment or a DND policy, it still continues to be used by any plans to which it has already been applied. If any such plan is edited, a warning, stating that the segment or the DND policy has been deleted, is displayed. You can, however, still continue to use the deleted segment or DND policy with the relevant plan, provided that you do not select a new one and save the plan.
+
+    **IMPORTANT:**
+
+    If you do not click **Save as draft** or **Save**, all edits are discarded and the plan remains unchanged.
+
+    ***Next page:***
+
+    [Deleting a plan](../DeletingPlans/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Viewing plans](../ViewingPlans/)
+      - [Plan details](../PlanDetails/)
+    - [Creating new plans](../CreatingNewPlans/)
+      - [Example of creating a new plan](../ExampleNewPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

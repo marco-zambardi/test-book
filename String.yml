@@ -1,0 +1,62 @@
+title: String data type
+content:
+  |
+    # String data type
+
+    Attributes with a *string* data type have alpha-numeric values that can be made up of more than one word. For example, the **store name** attribute can have value such as **N.5 mall**.
+
+    ## Permissible operators
+
+    - [Equal to](../EqualTo/)
+    - [Like](../Like/)
+    - [Not like](../NotLike/)
+    - [Not equal to](../NotEqualTo/)
+    - [Is null](../IsNull/)
+    - [Is not null](../IsNotNull/)
+    - [Start with](../StartWith/)
+    - [End with](../EndWith/)
+
+    ## Permissible input fields
+
+    - [Checkbox](../Checkbox/)
+    - [Multiple options](../MultipleOptions/)
+    - [Autocomplete](../Autocomplete/)
+    - [Free text](../FreeText/)
+    - [Drill down](../DrillDown/)
+
+    **Note:**
+
+    The actual operators that are available vary according to the input field type that is set for the attribute.
+
+    Click the appropriate link above for more about each operator or input field.
+
+    ***Next page:***
+
+    [Numeric](../Numeric/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+        - [Numeric](../Numeric/)
+        - [Date](../Date/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

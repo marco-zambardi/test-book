@@ -1,0 +1,98 @@
+title: Managing plans
+content:
+  |
+    # Managing plans
+
+    As a minimum, plans include the following information:
+
+    - The target date, time and time zone to carry out the plan
+
+    - The target segment to be used (contacts)
+
+    - The consumer
+
+      The platform, external to Contactplan, which is to receive the list of contacts.
+
+    The following can also be defined in a plan:
+
+    - Whether it is a single-shot or a recurring plan
+
+    - The Do Not Disturb (DND) policy
+
+      Used to manage the volume of messages sent to contacts.
+
+    - The number of contacts that should be included in the contact list
+
+    - What action to take if the required number of contacts is not available in the appropriate segment
+
+    Plans can be saved as a **Draft** or as **Ready**. See [Plan details](../PlanDetails/) and [Creating new plans](../CreatingNewPlans/) for more details. Plans that have been run are saved by the system as **Archived**.
+
+    ## Recurring plans
+
+    When you create a new recurring plan and save it as **Ready**, a *master* is created on the **Recurrence** tab of the **Plans list** view page.
+
+    ![Recurrence tab](/images/images/en/guide/PlansRecurrencePage.png)
+
+    **The Recurrence tab of the Plans list view page**
+
+    Here, you can:
+
+      - Start and stop the appropriate recurring plan
+
+        See [UI icons](../UIIcons/) for more details.
+
+      - Select a recurring plan and open it to edit all future instances
+
+    All instances of a ready recurring plan are also displayed individually in the list on the **Ready** tab, according to when they are to be run. Each instance can be identified by the plan name, followed by a number in parentheses, which represents that particular instance. For example, *My new recurring plan (1)*. However, all instances, except for the next one to be run, are only displayed in the list to help you understand what is planned, and they do not yet truly exist as a plan in the system. As a result, they cannot be opened or edited.
+
+    The only recurring plan that can be opened and edited from the **Ready** tab is the next one to be run. Any changes you make are only applied to that instance.
+
+    See [Understanding plans](../UnderstandingPlans/) for more about plans.
+
+    ## Using the plans section
+
+    This section of the guide contains all of the information that you need to be able to create, manage, change or delete Contactplan plans. It includes the following topics:
+
+    - [Viewing plans](../ViewingPlans/)
+      - [Plans list view](../PlansListView/)
+      - [Plans calendar view](../PlansCalendarView/)
+      - [Plan details](../PlanDetails/)
+    - [Creating new plans](../CreatingNewPlans/)
+      - [Example of creating a new plan](../ExampleNewPlan/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ***Next page:***
+
+    [Viewing plans](../ViewingPlans/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Viewing plans](../ViewingPlans/)
+    - [Plans list view](../PlansListView/)
+    - [Plans calendar view](../PlansCalendarView/)
+    - [Plan details](../PlanDetails/)
+    - [Creating new plans](../CreatingNewPlans/)
+      - [Example of creating a new plan](../ExampleNewPlan/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+    - [Understanding plans](../UnderstandingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

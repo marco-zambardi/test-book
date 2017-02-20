@@ -1,0 +1,47 @@
+title: Combining conditions within a rule
+content:
+  |
+    # Combining conditions within a rule
+
+    Conditions within a rule are combined by applying either the **ALL** or the **ANY** matching option.
+
+    - **ALL**
+
+      If the **ALL** option is applied, only those contacts that match all of the conditions that make up the rule are selected. The result is similar to applying an AND logical operator.
+
+    - **ANY**
+
+      If the **ANY** option is applied, any contacts that match at least one of the conditions that make up the rule are selected. The result is similar to applying an OR logical operator.
+
+    ***Next page:***
+    
+    [Combining segment rules](../CombiningSegmentRules/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Combining segment rules](../CombiningSegmentRules/)
+      - [Time frame conditions](../TimeFrameConditions/)
+      - [Analytical queries](../AnalyticalQueries/)
+      - [Correlation-based queries](../CorrelationBasedQueries/)
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding plans](../UnderstandingPlans/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

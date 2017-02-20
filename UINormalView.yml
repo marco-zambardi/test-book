@@ -1,0 +1,78 @@
+title: UI normal view
+content:
+  |
+    # UI normal view
+
+    ![UI normal view](/images/images/en/guide/MyPlans.png)
+
+    **The UI normal view**
+
+    The **normal view** displays the UI as it is generally intended to be used, with all controls and tabs readily available.
+
+    It includes:
+
+    - The **Control bar**, including:
+
+      - The **Contactplan** logo
+
+        - Click at any time, to return to the start page
+
+      - The **Dashboard**, **Plans**, **Segments**, **Reports** and **Settings** tabs
+
+        - Click the appropriate tab to navigate to the required management page
+
+          The **Plans** management page is the default.
+
+      - The **User information** panel
+
+        Displays the name of the current user and the database that is being used.
+
+        - Click the panel to display the **Settings** and **Sign out** buttons.
+
+        - Click the **Settings** button to:
+
+          - [Select a different database](../SelectingADatabase/), if available for your account
+          - [Change the UI display language](../ChangingLanguage/)
+
+        - Click the **Sign out** button to end the current session
+
+    - The appropriate management page
+
+      - Selected using the tabs on the **Control bar**
+
+    See [UI icons](../UIIcons/) for a description of each icon displayed in the UI.
+
+    ## UI compact view
+
+    When the browser window is not wide enough for the **UI normal view**, the [UI compact view](../UICompactView/) displays.
+
+    ***Next page:***
+
+    [UI compact view](../UICompactView/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Getting started and navigating the UI](../NavigatingUI/)
+      - [UI compact view](../UICompactView/)
+      - [UI icons](../UIIcons/)
+    - [Selecting a database](../SelectingADatabase/)
+    - [Changing the UI display language](../ChangingLanguage/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

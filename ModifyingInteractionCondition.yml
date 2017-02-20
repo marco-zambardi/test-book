@@ -1,0 +1,78 @@
+title: Modifying the interaction condition between segment rules
+content:
+  |
+    # Modifying the interaction condition between segment rules
+
+    To modify the interaction condition between rules:
+
+    1. In the **Summary panel**, positioned to the right of the **Edit segment** page, locate the two relevant consecutive rules in the list and select the appropriate **interaction condition**, from those listed in the area between the two rules:
+
+      - **AND**
+
+        Only the contacts that conform with both rules are included in the total contacts for segment.
+
+      - **OR**
+
+        The contacts that conform with either rule are included in the total contacts for segment.
+
+      - **EXCEPT**
+
+        The contacts that are defined by the second rule are removed from those identified by the first rule.
+
+      See [Combining segment rules](../CombiningSegmentRules/) and [Segment Summary panel](../SegmentSummaryPanel/) for more details about **interaction conditions**.
+
+    2. Carry out other edit actions as required.
+
+      See [Editing a segment](../EditingSegment/) for other editing options.
+
+    **IMPORTANT:**
+
+    If you do not click **Save** once you have finished editing the segment, all edits are discarded and the segment remains unchanged.
+
+    ***Next page:***
+
+    [Cloning a segment](../CloningSegment/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Editing a segment](../EditingSegment/)
+      - [Changing the segment name](../ChangingSegmentName/)
+      - [Modifying an existing segment rule](../ModifyingExistingSegmentRule/)
+      - [Modifying correlated rules](../ModifyingCorrelatedRules/)
+      - [Deleting an existing segment rule](../DeletingExistingSegmentRule/)
+      - [Adding a new segment rule](../AddingNewSegmentRule/)
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    #### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

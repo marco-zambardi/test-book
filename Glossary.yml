@@ -1,0 +1,389 @@
+title: Glossary
+content:
+  |
+    <a href="#A" class="btn btn-info buttonMargin" role="button">A</a>
+    <a href="#B" class="btn btn-info buttonMargin" role="button">B</a>
+    <a href="#C" class="btn btn-info buttonMargin" role="button">C</a>
+    <a href="#D" class="btn btn-info buttonMargin" role="button">D</a>
+    <a href="#E" class="btn btn-info buttonMargin" role="button">E</a>
+    <a href="#F" class="btn btn-info buttonMargin" role="button">F</a>
+    <a href="#G" class="btn btn-info buttonMargin" role="button">G</a>
+    <a href="#H" class="btn btn-info buttonMargin" role="button">H</a>
+    <a href="#I" class="btn btn-info buttonMargin" role="button">I</a>
+    <a href="#J" class="btn btn-info buttonMargin" role="button">J</a>
+    <a href="#K" class="btn btn-info buttonMargin" role="button">K</a>
+    <a href="#L" class="btn btn-info buttonMargin" role="button">L</a>
+    <a href="#M" class="btn btn-info buttonMargin" role="button">M</a>
+    <a href="#N" class="btn btn-info buttonMargin" role="button">N</a>
+    <a href="#O" class="btn btn-info buttonMargin" role="button">O</a>
+    <a href="#P" class="btn btn-info buttonMargin" role="button">P</a>
+    <a href="#Q" class="btn btn-info buttonMargin" role="button">Q</a>
+    <a href="#R" class="btn btn-info buttonMargin" role="button">R</a>
+    <a href="#S" class="btn btn-info buttonMargin" role="button">S</a>
+    <a href="#T" class="btn btn-info buttonMargin" role="button">T</a>
+    <a href="#U" class="btn btn-info buttonMargin" role="button">U</a>
+    <a href="#V" class="btn btn-info buttonMargin" role="button">V</a>
+    <a href="#I" class="btn btn-info buttonMargin" role="button">W</a>
+    <a href="#I" class="btn btn-info buttonMargin" role="button">X</a>
+    <a href="#I" class="btn btn-info buttonMargin" role="button">Y</a>
+    <a href="#Z" class="btn btn-info buttonMargin" role="button">Z</a>
+
+
+    # Glossary
+
+    <a name="A"></a>
+
+    <br/>
+    <br/>
+
+    ## A
+
+    ### Analytical query
+
+    A special kind of query that can be applied to behavioral data. An analytical query selects contacts whose behavior matches a defined parameter, such as equal to, greater than, or less than/greater than a specific cutoff threshold.
+
+    **Example:**
+
+    All those contacts who have bought yellow bags on more than 10% of the occasions when they bought something.
+
+    See [Analytical queries](../AnalyticalQueries/) for more details.
+
+
+    <a name="B"></a>
+
+    <br/>
+    <br/>
+
+    ## B
+
+
+    <a name="C"></a>
+
+    <br/>
+    <br/>
+
+    ## C
+
+    ### Condition
+
+    Selection criteria used to define a rule and as a result, a segment. A condition is a basic expression in the form *attribute*, *operator*, *value*, *value2 (optional)*.
+
+    **Example:**
+
+    Last name (*attribute*), Equal to (*operator*), Smith (*value*)
+
+    Multiple conditions may used to define a rule, and can be combined using logical operators such as AND or OR.
+
+    See [Understanding segmentation](../UnderstandingSegmentation/) for more details.
+
+    ### Consumer
+
+    A target platform that is external to Contactplan, which uses the list of contacts associated with a plan, and may also carry out the plan itself. To deploy a consumer, it always needs to be associated with a plan, but plans can have zero, one or more consumers. Each consumer uses the list of contacts according to its assigned role.
+
+    See [Understanding plans](../UnderstandingPlans/) for more details.
+
+    ### Contact
+
+    A single entry in the customer database. A contact must include at least an email address, a telephone number, an IP address, or a similar communication method. Contacts that satisfy the filter for a particular segment are regarded as being part of that segment.
+
+    ### Correlation-based query
+
+    A special kind of query that can be applied to behavioral data. A correlation-based query enables a relationship to be established between two different events, which take place during a given period of time.
+
+    **Example:**
+
+    All those contacts who reserved a hotel room within seven days of having booked a flight.
+
+    See [Correlation-based queries](../CorrelationBasedQueries/) for more details.
+
+    <a name="D"></a>
+
+    <br/>
+    <br/>
+
+    ## D
+
+    ### Digital Message events
+
+    All the events recorded in the database that relate to how a contact reacts to the digital communications they have received. The communications can be email or SMS messages, or Push notifications. The event types associated with Digital Messages are:
+
+    - Delivered
+
+      A particular communication has been sent to the contact.
+
+    - Views
+
+      A particular communication has been opened by the contact.
+
+    - Clicks
+
+      A link in a particular communication has been clicked by the contact
+
+    See [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/) and [Time frame conditions](../TimeFrameConditions/) for more details.
+
+    ### DND policy
+
+    Defines the maximum number of communications that can be sent to a contact in a given time frame.
+
+    See [Managing DND policy settings](../ManagingDND/) for more details.
+
+    <a name="E"></a>
+
+    <br/>
+    <br/>
+
+    ## E
+
+    ### Event
+
+    Data related to the behavior of customers. An event is associated with the precise moment in time that it took place, and a particular contact. They are organized in categories and types, and may have specific properties.
+
+    See [Time frame conditions](../TimeFrameConditions/) for more details.
+
+    <a name="F"></a>
+
+    <br/>
+    <br/>
+
+    ## F
+
+    ### Filter
+
+    A query or a combination of queries that are applied to the customer database. A filter is defined by the segment rule or rules, which in turn may consist of multiple conditions that are applied to demographic or behavioral information.
+
+    See [Understanding segmentation](../UnderstandingSegmentation/) for more details.
+
+    <a name="G"></a>
+
+    <br/>
+    <br/>
+
+    ## G
+
+    <a name="H"></a>
+
+    <br/>
+    <br/>
+
+    ## H
+
+    <a name="I"></a>
+
+    <br/>
+    <br/>
+
+    ## I
+
+    ### Interaction condition
+
+    The logical operator that is applied to combine two rules. For example, AND, OR, or EXCEPT.
+
+    See [Combining segment rules](../CombiningSegmentRules/) for more details.
+
+
+    <a name="J"></a>
+
+    <br/>
+    <br/>
+
+    ## J
+
+    <a name="K"></a>
+
+    <br/>
+    <br/>
+
+    ## K
+
+    <a name="L"></a>
+
+    <br/>
+    <br/>
+
+    ## L
+
+    ### List
+
+    A set of contacts that make up a segment. All selected contacts satisfy the filter associated with the segment, at the time that the list is created. The same segment may result in a different list of contacts, if applied at another point in time.
+
+    When the segment is used within a plan, the list of contacts may be reduced after any optional Do Not Disturb (DND) policy associated with the plan, has been applied.
+
+    <a name="M"></a>
+
+    <br/>
+    <br/>
+
+    ## M
+
+    ### Model
+
+    Metadata related to contact and event entities. A model specifies the label, name, range, acceptable values, allowed operators and similar, for each entity attribute.
+
+
+    <a name="N"></a>
+
+    <br/>
+    <br/>
+
+    ## N
+
+
+    <a name="O"></a>
+
+    <br/>
+    <br/>
+
+    ## O
+
+    <a name="P"></a>
+
+    <br/>
+    <br/>
+
+    ## P
+
+    ### Plans
+
+    A defined way of using the segment contact list, optionally with an external target platform (consumer) which may be Contactsend. As a minimum, a plan consists of:
+
+    - The delivery date, time and time zone
+    - The target segment
+
+    Available options include:
+
+    - A DND policy
+    - A plan consumer
+    - Test email addresses
+
+    See [Understanding plans](../UnderstandingPlans/) for more details.
+
+    ### Purchase events
+
+    All those events related to purchases made by a contact, either online or in store. The event types associated with purchases are:
+
+    - Have purchased
+
+      Contacts that have made a purchase.
+
+    - Have not purchased
+
+      Contacts that have not made a purchase.
+
+    - Have an order line
+
+      Contacts that have made a purchase.
+
+    - Do not have an order line
+
+      Contacts that have not made a purchase.
+
+    See [Creating a custom purchases rule](../CreatingCustomPurchasesRule/) and [Time frame conditions](../TimeFrameConditions/) for more details.
+
+
+    <a name="Q"></a>
+
+    <br/>
+    <br/>
+
+    ## Q
+
+    <a name="R"></a>
+
+    <br/>
+    <br/>
+
+    ## R
+
+    ### Rule
+
+    A database filter element. A rule is a query that is made up of one or more conditions that are applied to:
+
+    - Demographic data
+    - Behavioral data (events) regarding digital messages that have previously been sent
+    - Behavioral data (events) regarding online and offline purchases
+
+    A single rule cannot include conditions that relate to different data types, for example, demographic and purchases-related data, or digital messages and purchases data.
+
+    Rules can be combined using logical operators or interaction conditions, such as AND, OR, or EXCEPT.
+
+    See [Understanding segmentation](../UnderstandingSegmentation/) for more details.
+
+
+    <a name="S"></a>
+
+    <br/>
+    <br/>
+
+    ## S
+
+    ### Segment
+
+    The result of a filter being applied to a database. A segment identifies a group of contacts that are included in the database, who satisfy the filter. The group of contacts identified by a segment may change over time.
+
+    A segment can also be created by combining existing segments. Once a segment has been saved, it can be opened, edited or deleted. A segment is identified by a UUID and a unique name.
+
+    See [Understanding segmentation](../UnderstandingSegmentation/) for more details.
+
+    <a name="T"></a>
+
+    <br/>
+    <br/>
+
+    ## T
+
+
+    <a name="U"></a>
+
+    <br/>
+    <br/>
+
+    ## U
+
+    ### Users
+
+    The authorized staff of an organization, who operate Contactplan and are assigned a user profile.
+
+    See [Understanding Contactplan](../UnderstandingContactplan/) for more details.
+
+    <a name="V"></a>
+
+    <br/>
+    <br/>
+
+    ## V
+
+    <a name="W"></a>
+
+    <br/>
+    <br/>
+
+    ## W
+
+
+    <a name="X"></a>
+
+    <br/>
+    <br/>
+
+    ## X
+
+    <a name="Y"></a>
+
+    <br/>
+    <br/>
+
+    ## Y
+
+    <a name="Z"></a>
+
+    <br/>
+    <br/>
+
+    ## Z
+
+
+    ----------
+
+    ## Related Pages:
+
+    - [Contactplan](../Home/)

@@ -1,0 +1,88 @@
+title: Autocomplete field type
+content:
+  |
+    # Autocomplete field type
+
+    Autocomplete input fields are used by default, for all attributes that have between 50 and 5000 different values stored in the database.
+
+    ## Use
+
+    The UI displays an editable text box containing the word *Search*. When two or more characters are typed in the text box, Contactplan automatically displays all of the available values that contain those characters, in a scrollable list. Click the required value to select it.
+
+    When a value is chosen, the text box returns to its original state and the selected value is displayed beneath the box. Further values can be selected by repeating these steps.
+
+    Once a value has been selected, it can be removed by clicking the associated **X** icon.
+
+    When more than one value is chosen, the condition selects all those contacts that satisfy at least one of the relevant values.
+
+    **Note:**
+
+    Editable text boxes may be case-sensitive, depending upon the configuration settings that have been applied to your system.
+
+    ### Autocomplete fields and operator types
+
+    In general, Autocomplete fields are applied as appropriate, to the following operator types:
+
+    - [Equal to](../EqualTo/)
+    - [Not equal to](../NotEqualTo/)
+    - [Like](../Like/)
+    - [Not like](../NotLike/)
+    - [Is null](../IsNull/)
+    - [Is not null](../IsNotNull/)
+
+    **Example:**
+
+    - The **Subject** attribute of a digital message rule is set to autocomplete
+    - The **Equal to** operator is selected
+    - 'hot' is entered in the text box
+
+    The system suggests strings from the **Subject** attribute in the database that include 'hot', such as 'Great hotel offers', 'hotel booked in Rome' and so on. In a similar way, if the **Not equal to** operator is selected, the system suggests **Subject** strings that do not include 'hot', such as 'Great cruise offers', or 'Flights from Rome'.
+
+    **Note:**
+
+    If the **Like** or **Not like** operator is used with an Autocomplete field, the UI does not display a selectable list of suggested strings. Instead, the field works in a similar way to a [Free text](../FreeText/) one. The characters typed in the text box are used as the value for the condition and all matches are selected. This avoids having to select all of the suggestions in the list of strings individually.
+
+    **Example:**
+
+    - The **Action** attribute of a digital message rule is set to **Have opened**
+    - The **Subject** attribute is set to autocomplete
+    - The **Like** operator is selected
+    - 'hotel' is entered in the text box
+
+    All contacts who have opened an email with 'hotel' in the subject line are selected.
+
+    ***Next page:***
+
+    [Free text](../FreeText/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Multiple options](../MultipleOptions/)
+        - [Free text](../FreeText/)
+        - [Drill down](../DrillDown/)
+        - [Number](../Number/)
+        - [Calendar](../Calendar/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

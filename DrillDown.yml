@@ -1,0 +1,67 @@
+title: Drill down field type
+content:
+  |
+    # Drill down field type
+
+    This special input field type may be used when there are attributes that are hierarchically related in a parent-child relationship. For example, when the possible values of one attribute depend upon the value selected for the parent attribute. Location-related attributes, such as **Continent**, **Country**, **Region** and **City** are typical examples of where this type of input field may be used.
+
+    ## Use
+
+    The UI displays a selectable drop-down list showing the available values for the first-level attribute. A range of values are displayed and the remainder can be accessed by scrolling up or down the list. Do the following:
+
+    1. Click a first-level attribute value to select it.
+
+      A new drop-down list opens, which displays the appropriate second-level attribute values that are associated with the selected first-level value.
+
+    2. Click a second-level attribute value to select it.
+
+      A new drop-down list opens, which displays the appropriate third-level attribute values that are associated with the selected second-level value.
+
+    3. Repeat the above steps until attribute values have been selected for all levels of the drill down hierarchy.
+
+    Only one value can be selected at a time for each level, in this type of input field.
+
+    **Example:**
+
+    For a geographic location-related condition:
+
+    - The first-level drop-down list displays the continents: North America, South America, Africa, Europe, Asia and Australia
+    - If Europe is selected, a second-level drop-down list displays the countries: Spain, France, Italy, Portugal, Germany, Netherlands, Sweden, Norway and so on
+    - If Italy is selected, a third-level drop-down list displays the regions: Piedmont, Lombardy, Tuscany and so on
+    - If Lombardy is selected, a fourth-level drop-down list displays the cities: Milan, Bergamo, Monza and so on
+
+    ***Next page:***
+
+    [Number](../Number/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Multiple options](../MultipleOptions/)
+        - [Autocomplete](../Autocomplete/)
+        - [Free text](../FreeText/)
+        - [Number](../Number/)
+        - [Calendar](../Calendar/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,82 @@
+title: Editing a correlation
+content:
+  |
+    # Editing a correlation
+
+    To edit a correlation, do the following:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Locate the required segment using the **Segments list** or **Segments cards** view.
+
+    3. Click the required segment.
+
+      The **Edit segment** page displays.
+
+    4. In the **Segment summary** panel, locate the **Correlation rule** box, displayed beneath the relevant rules,  and click the **pencil** icon.
+
+    ![Correlated Segment summary panel](/images/images/en/guide/CorrelationSummary2.PNG)
+
+    **The Segment summary panel with the Correlation rule box**
+
+      The **Create correlation** page displays.
+
+    ![Create correlation page](/images/images/en/guide/CreateCorrelation.PNG)
+
+    **The Create correlation page**
+
+    5. Edit the correlation settings as required.
+
+      See [Creating a segment by correlating rules](../CreatingCorrelationSegment/) for more about the correlation settings.
+
+    6. Click **Confirm** to apply the correlation changes.
+
+      The **Create correlation** page closes and the correlation is updated.
+
+    ***Next page:***
+
+    [Creating a new segment from existing segments](../NewSegmentSegment/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+      - [Creating new segments](../CreatingNewSegments/)
+        - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+    - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

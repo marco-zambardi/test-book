@@ -1,0 +1,85 @@
+title: Managing dashboards
+content:
+  |
+    # Managing dashboards
+
+    Dashboards are available for the whole database, or individual segments. See [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/) for a summary of the type of information that dashboards include.
+
+    ![Database dashboard](/images/images/en/guide/Dashboard.png)
+
+    **Example of a dashboard for the whole database**
+
+    ![Segement dashboard](/images/images/en/guide/AnalyticsDashboard.png)
+
+    **Example of a dashboard for a segment**
+
+    ## Using dashboards
+
+    Dashboards are divided into individual panels, which are made up of charts, graphs and other graphical representations of the available data. The contents of a dashboard are determined by us during system configuration.
+
+    ### Dashboard panel controls
+
+    Towards the top right of each dashboard panel are a series of controls that enable you manage the displayed information. While the available controls vary according to the type of chart, you can, for example:
+
+    - Save the relevant chart in PNG format
+    - Save the relevant chart to a cloud location for later editing
+    - Pan the displayed information
+    - Zoom in or out
+    - Autoscale the chart
+    - Reset the axes
+    - View additional information when you hover your mouse over a particular area of the chart
+
+    ![Mouse hover](/images/images/en/guide/DashboardHover.png)
+
+    **Example of the additional information that is displayed when hovering the mouse**
+
+    A screen tip displays when you position your mouse over a particular control icon, which describes what it does.
+
+    ## Accessing the database dashboard
+
+    To display the dashboard for the whole database, click the **Dashboard** tab in the **Control bar**.
+
+    The database dashboard displays.
+
+    ## Accessing the dashboard for a segment
+
+    To display the dashboard for a particular segment, do the following:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Locate the required segment using the **Segments list** or **Segments cards** view.
+
+    3. Click the appropriate segment.
+
+      The **Edit Segment** page displays.
+
+    4. Click the **Analytics** icon, positioned towards the bottom right of the [Segment Summary panel](../SegmentSummaryPanel/).
+
+      See [UI icons](../UIIcons/) for more about the **Analytics** icon.
+
+      The segment dashboard displays.
+
+    ***Next page:***
+
+    [Managing settings](../ManagingSettings/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing settings](../ManagingSettings/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

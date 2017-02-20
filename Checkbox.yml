@@ -1,0 +1,50 @@
+title: Checkbox field type
+content:
+  |
+    # Checkbox field type
+
+    Checkbox input fields are used by default, for all attributes that have five different values or less stored in the database. For example, the **Gender** attribute has M and F checkboxes.
+
+    ## Use
+
+    All available values for an attribute are shown and one or more can be selected, as appropriate. When more than one value is chosen, the condition selects all those contacts that satisfy at least one of the relevant values.
+
+    **Example:**
+
+    The **Store Category** attribute has *ecommerce*, *flagship store* and *mall* as possible values, to identify the type of store where a purchase has been made. If just *ecommerce* is selected, Contactplan returns the contacts that have purchased at least once from an ecommerce store. If both *ecommerce* and *mall* are selected, Contactplan returns the contacts that have purchased at least once from either an ecommerce store, or in a mall.
+
+    ***Next page:***
+    
+    [Multiple options](../MultipleOptions/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Multiple options](../MultipleOptions/)
+        - [Autocomplete](../Autocomplete/)
+        - [Free text](../FreeText/)
+        - [Drill down](../DrillDown/)
+        - [Number](../Number/)
+        - [Calendar](../Calendar/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,67 @@
+title: Understanding segmentation
+content:
+  |
+    # Understanding segmentation
+
+    Contactplan enables you to create segments from the appropriate database, using the following data categories:
+
+    - Demographic data
+    - Behavioral data (events) regarding digital messages that have previously been sent
+    - Behavioral data (events) regarding online and offline purchases
+
+    The Contactplan architecture has been purpose-designed to be capable of handling any other kind of data-based event, simply by applying the appropriate system configuration.
+
+    See [Time frame conditions](../TimeFrameConditions/) for more about events.
+
+    ## Segments, rules and conditions
+
+    Segments are identified by applying a filter to the database, which is determined by one or more user-defined rules. Each rule is composed of a set of conditions. Conditions are selection criteria that are combined to make up a rule, for example, a demographic rule, or a purchases rule, which is then applied to the relevant category of data.
+
+    A segment can include two or more rules that are applied to the same category of data, such as two digital message rules, or to different categories.
+
+    Click the appropriate link for more about:
+
+    - [Combining conditions within a rule](../CombiningConditionsInRule/)
+    - [Combining segment rules](../CombiningSegmentRules/)
+    - [Time frame conditions](../TimeFrameConditions/)
+
+    ## Special query types
+
+    Contactplan provides a simple way to create a segment out of a complex set of conditions, without needing to write any code or a script. Contactplan supports the following kinds of special queries:
+
+    - [Analytical queries](../AnalyticalQueries/)
+    - [Correlation-based queries](../CorrelationBasedQueries/)
+
+    See the *Contactplan Product Overview* for a detailed description of segments, rules, filters and query types.
+
+    ***Next page:***
+    
+    [Combining conditions within a rule](../CombiningConditionsInRule/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Combining conditions within a rule](../CombiningConditionsInRule/)
+    - [Combining segment rules](../CombiningSegmentRules/)
+    - [Time frame conditions](../TimeFrameConditions/)
+    - [Analytical queries](../AnalyticalQueries/)
+    - [Correlation-based queries](../CorrelationBasedQueries/)
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding plans](../UnderstandingPlans/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

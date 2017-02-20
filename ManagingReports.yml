@@ -1,0 +1,52 @@
+title: Managing reports
+content:
+  |
+    # Managing reports
+
+    Reports are generated as Excel files and include the details of all plan-related activity. See [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/) for more about the contents of a report.
+
+    ## Accessing Reports
+
+    To access the available reports for a specific time period:
+
+    - Click the **Reports** tab, in the **Control bar**
+
+      The **Reports** page displays.
+
+    ![Reports page](/images/images/en/guide/Reports.PNG)
+
+    **The Reports page**
+
+    - In the box provided, enter the number of days for which you want to search for reports
+
+    - Click **Search**
+
+      A list of available reports displays.
+
+    - Locate the required reports and select the appropriate checkboxes
+
+    - Click **Download report** and save the Excel file/s to the required location
+
+    ***Next page:***
+    
+    [Managing dashboards](../ManagingDashboards/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

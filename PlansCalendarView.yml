@@ -1,0 +1,73 @@
+title: Plans calendar view
+content:
+  |
+    # Plans calendar view
+
+    ![Plans calendar view](/images/images/en/guide/MyPlansCalendar.png)
+
+    **The Plans calendar view page**
+
+    The default **Plans calendar** view displays plans on a monthly calendar page, starting with the current month. The current date is highlighted in light gray.
+
+    Plans are shown on the day that they are to be run, together with the appropriate 12 hour clock-based time, for example, 6:29a or 4:38p (**a** denotes am, **p** means pm). The plans are highlighted as follows:
+
+    - **Blue**: The plan is ready
+    - **Dark gray**: The plan is a draft
+    - **Gray**: The plan has been run and is archived
+
+    See [Plan details](../PlanDetails/) for more about **Ready**, **Draft** and **Archive** plans.
+
+    Click the left or right facing arrow heads to navigate to the preceding or forthcoming months. If the displayed page is a month other than the current one, you can navigate back to the current date by clicking the **Today** button.
+
+    **Note:**
+
+    When the delivery date and time for a ready plan has passed, it is archived and it can no longer be edited.
+
+    ### Displaying different calendar views
+
+    Click the **Day**, **Week** or **Month** button, positioned to the right of the **Plans calendar** view to display the appropriate alternative calendar view.
+
+    ### Returning to the Plans list view
+
+    Click the **List** icon, positioned to the right of the page, to change to the **Plans list** view.
+
+    **Note:**
+
+    If you navigate away from the **Plans** tab and then return, the **Plans list** view is displayed.
+
+    ## Viewing a plan
+
+    Click the relevant plan name to display its details in the **Edit plan** page. See [Plan details](../PlanDetails/) for more about the information that is displayed on an individual plan page.
+
+    ***Next page:***
+    
+    [Plan details](../PlanDetails/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Viewing plans](../ViewingPlans/)
+      - [Plans list view](../PlansListView/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Plan details](../PlanDetails/)
+    - [Creating new plans](../CreatingNewPlans/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

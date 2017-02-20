@@ -1,0 +1,64 @@
+title: UI icons
+content:
+  |
+    # UI icons
+
+    The UI views and management pages include the following icons:
+
+    |Page|Icon|Description|
+    |----------|----|-----------|
+    |**UI compact view**|||
+    ||![Compact View](/images/images/en/guide/CompactView.PNG)|**Management page** icon. Click to access Plans, Segments, Reports and Settings pages.|
+    |**General**|||
+    ||![Edit](/images/images/en/guide/Edit.PNG)|**Edit** icon. Click to edit.|
+    ||![Delete](/images/images/en/guide/Bin.PNG)|**Delete** icon. Click to delete.|
+    ||![Absolute or Relative Date](/images/images/en/guide/AbsoluteRelative.PNG)|**Absolute or relative date** icon. Click to change between an absolute calendar-based date and a relative date.|
+    |**Plans**|||
+    ||![Plans Calendar](/images/images/en/guide/PlansCalendar.PNG)|**Plans calendar** icon. Click to change to Calendar view.|
+    ||![Plans List](/images/images/en/guide/List.PNG)|**Plans list** icon. Click to change to List view.|
+    ||![Start Plan](/images/images/en/guide/StartPlan.png)|**Start Plan** button. Click to start a recurring plan.|
+    ||![Stop Plan](/images/images/en/guide/StopPlan.png)|**Stop Plan** button. Click to stop a recurring plan.|
+    |**Segments**|||
+    ||![Segments Cards](/images/images/en/guide/SegmentsCards.PNG)|**Segments cards view** icon. Click to change to Cards view.|
+    ||![Segments List](/images/images/en/guide/List.PNG)|**Segments list** icon. Click to change to List view.|
+    ||![Contacts Reload](/images/images/en/guide/SegmentsReload.PNG)|**Reload** icon. Click to reload the appropriate field, such as the number of contacts.|
+    ||![Clone Segment](/images/images/en/guide/SegmentsClone.PNG)|**Clone segement** icon. Click to clone the segment.|
+    |**Segment summary**|||
+    ||![Correlate events](/images/images/en/guide/Correlate.png)|**Correlate events** icon. Click to correlate the preceding and following rule.|
+    ||![Unlink events](/images/images/en/guide/UnlinkEvents.PNG)|**Unlink events** icon. Click to remove correlation between two rules.|
+    ||![Analytics](/images/images/en/guide/Analytics.png)|**Analytics** icon. Click to display the segment dashboard.|
+    ||![Download List](/images/images/en/guide/DownloadList.PNG)|**Download list** icon. Click to download the contact list in *.CSV format.|
+    |**Favorites**|||
+    ||![Selected Favorite](/images/images/en/guide/HeartSelect.PNG)|**Selected favorite** icon. Selected as favorite. Click to deselect.|
+    ||![Not a Favorite](/images/images/en/guide/HeartNoSelect.PNG)|**Not selected as favorite** icon. Click to select as favorite.|
+
+    ***Next page:***
+    
+    [Changing the UI display language](../ChangingLanguage/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Getting started and navigating the UI](../NavigatingUI/)
+      - [UI normal view](../UINormalView/)
+      - [UI compact view](../UICompactView/)
+    - [Selecting a database](../SelectingADatabase/)
+    - [Changing the UI display language](../ChangingLanguage/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

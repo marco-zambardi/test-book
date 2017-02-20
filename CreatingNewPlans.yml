@@ -1,0 +1,242 @@
+title: Creating new plans
+content:
+  |
+    # Creating new plans
+
+    ![New plan page](/images/images/en/guide/NewPlan.png)
+
+    **The New plan page showing the Repeated tab with Daily repetition selected**
+
+    **Note:**
+
+    See [Using data types, input fields and operators](../InputBoxOperators/) for more about the fields and operators that are available in the UI.
+
+    To create a new plan, do the following:
+
+    1. Click the **Plans** tab, if not already selected.
+
+      The **My plans** page displays.
+
+    2. Do one of the following:
+
+      - In the **Plans list** view or the **Plans calendar** view, click **Create new plan**
+
+          The **New plan** page displays.
+
+          or:
+
+      - In the **Plans calendar** view:
+
+        - Use the calendar controls to navigate to the proposed run date for the plan
+        - Click the relevant date
+
+          The **New plan** page displays.
+
+    3. Enter a name for the plan, in the box marked **Insert plan name**.
+
+      Ensure that the name you use is unique, descriptive of the plan, and can easily be recognized by yourself and others in the future.
+
+    4. In the **When** panel select:
+
+      - The **One shot** tab for a plan that is to run once
+
+        or:
+
+      - The **Repeated** tab for a recurring plan
+
+    5. Do the following:
+
+      - Click the box under **Date & hour**
+
+          The **Calendar** widget displays.
+
+      - Do one of the following:
+
+        - Enter the date and time of the delivery
+
+          or:
+
+        - Use the calendar widget controls to select a date and time
+
+        **Note:**
+
+        If you opened the **New plan** page using the **Create new plan** button, the current date and time are displayed by default. If you opened the **New plan** page by clicking on a date in the **Plans calendar** view, the date you selected and the current time is displayed by default.
+
+      - Under **Time zone**, click the downwards pointing arrow to the right of the box and select the appropriate time zone, if it needs to be changed
+
+        **Note:**
+
+        The default time zone is automatically set to the one defined under **Settings** > **Local settings**. See [Local settings](../LocalSettings/) for more details.
+
+    6. For a recurring plan, do the following:
+
+      - Under **Repetition**, click the downwards pointing arrow to the right of the box and select whether the plan should be repeated **Daily**, **Weekly** or **Monthly**
+
+        **Note:**
+
+        Depending upon your repetition choice, further options may display, as follows:
+
+        - Daily
+
+          No further options are available.
+
+        - Weekly
+
+          Select one or more days of the week when the plan should run.
+
+        - Monthly
+
+          Select one or more months of the year and dates of the month when the plan should run.
+
+          **Note:**
+
+          If you select multiple months, for example, February, April and July, and several dates including ones that do not exist in a particular month, such as 31st April or 30th February, those dates are ignored when the plan is run.
+
+      - Under **End date**, click the appropriate radio button and select when the recurring plan should finish
+
+        - **Never**
+
+          The plan repeats until:
+
+            - It is stopped manually using the appropriate **Stop Plan** button on the **Recurrence** tab. See [UI icons](../UIIcons/) for more details
+            - It has been running for a maximum of one year
+
+        - **After**
+
+          Select how many times the plan should be run.
+
+        - **On date**
+
+          Enter the date when the plan should stop repeating.
+
+        **Note:**
+
+        A recurring plan cannot be defined to last longer than one year, or to include more than 365 repetitions. The system returns an error if you attempt to exceed these limits by using the **After** or **On date** controls.
+
+      - Click **Load recurrences** to display dates of the first ten repeats, if required
+
+        The total number of repeats is also shown.
+
+      See [Managing plans](../ManagingPlans/) for more about recurring plans.
+
+    7. In the **Who** panel:
+
+      - Under **Segment**, click the downwards pointing arrow to the right of the box, and select the appropriate segment
+
+        After a short delay, the number of contacts in the segment displays.
+
+      - Under **DND policy**, click the downwards pointing arrow to the right of the box, and select the appropriate policy, if required
+
+        After a short delay, the number of relevant contacts displays and the **total contacts** field is adjusted.
+
+    8. Click the downwards pointing arrow to the left of **Advanced options** and do the following, if required:
+
+      - If you want the contact list to be generated a certain number of days before the plan is run:
+
+        - Under **List generation**, use the scroll box to select when the list should be generated
+
+          If set to 0, the contact list is created when the plan is run. If set to -1, the list is created when the plan is saved.
+
+      - If you want to define the number of contacts that are to be used for the plan, under **Set contacts number** do one of the following:
+
+        - Select **All** to use the contact list as defined by the relevant segment and DND policy (default)
+
+        - Select **Exact** if you want a precise number of contacts to be used, then:
+
+          - Enter the number of contacts in the box provided
+          - Under **If the value is not reached**, click the downwards pointing arrow to the right of the box and select the appropriate action
+
+            - **Send anyway**
+
+              Uses the available contacts even if the required number of contacts is not achieved.
+
+            - **Add contacts**
+
+              Increases the number of contacts in the list, by adding others from the database. Enter the maximum percentage of the total number of contacts that can be added in this way. Contactplan then adds contacts until either the maximum percentage or the defined number of contacts is reached.
+
+            - **Set error**
+
+              The plan is not run and an error is returned, if the required number of contacts is not reached.
+
+        - Select **Range** if you want to define a suitable range of contacts, then
+
+          - Enter the range of contacts in the boxes provided
+          - Under **If the value is not reached**, click the downwards pointing arrow to the right of the box and select the appropriate action. See above for more details about the available actions
+
+        **Note:**
+
+        Both advanced options can be used together.
+
+    9. In the **Action** panel:
+
+      - Click the downwards pointing arrow to the right of the box under **Consumer**, and select the appropriate target for running the plan
+
+        - **Clab Filter Creator** plug-in
+
+          Used to create filters in Contactsend.
+
+          **Note:**
+
+          If you later delete the plan, the relevant filters still remain available in Contactsend.
+
+        - **Clab Campaign Creator** plug-in
+
+          Used to create a campaign in Contactsend. A separate window displays, which enables you to configure the campaign. This consumer also enables you to use HTML pages created in PageBuilder as your message. See [Example of creating a new plan](../ExampleNewPlan/) for more details.
+
+          **Note:**
+
+          Contactsend *click tracking for links with no dynamic parameters in the URL* is automatically activated.
+
+          If you use the **Clab Campaign Creator** consumer and save your plan as ready, it will be delivered by Contactsend, if you take no other steps to change or cancel the campaign before it is due.
+
+        - **Consumer SFTP** plugin
+
+          The storage location to which the contact list associated with the plan is exported.
+
+    10. When you have finished, do one of the following:
+
+      - If, for example, your plan is not yet complete, or you think that you may want to change your entries, click **Save as draft**
+      - If you plan is ready, click **Save**
+      - Click **Back to plans list** to abort the process
+
+      You are returned to the **My plans** page and the draft or ready plan is added to the list.
+
+    **Note:**
+
+    You can reopen any plan that has been saved as **Ready** at any time, but you can only edit it up until the time and date that it is due to run. **Draft** plans can be edited at any time. See [Plan details](../PlanDetails/) for more about **Ready** and **Draft** plans.
+
+    If you later delete a segment or a DND policy, it still continues to be used by any plans to which it has already been applied.
+
+    See [Example of creating a new plan](../ExampleNewPlan/) for more about the plan creation process.
+
+    ***Next page:***
+
+    [Example of creating a new plan](../ExampleNewPlan/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Example of creating a new plan](../ExampleNewPlan/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Viewing plans](../ViewingPlans/)
+      - [Plan details](../PlanDetails/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

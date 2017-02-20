@@ -1,0 +1,59 @@
+title: Equal to or less than operator type
+content:
+  |
+    # Equal to or less than operator type
+
+    The **Equal to or less than** operator applies to attributes that can be ordered. It is used to select those contacts for which the relevant attribute has a value equal to or less than the one entered in the condition input field.
+
+    **Example:**
+
+    Setting the *Number of children* condition to **Equal to or less than**, with *3* as the input field value, selects all contacts with 0, 1, 2 or 3 children, but does not select those with 4 or more children.
+
+    The **Equal to or less than** operator applies to [numeric](../Numeric/) and [date](../Date/) data types.
+
+    See [Input field types](../InputFieldTypes/) for more about each input field.
+
+    ***Next page:***
+
+    [Between](../Between/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+        - [Equal to](../EqualTo/)
+        - [Like](../Like/)
+        - [Not like](../NotLike/)
+        - [Not equal to](../NotEqualTo/)
+        - [Greater than](../GreaterThan/)
+        - [Less than](../LessThan/)
+        - [Equal to or greater than](../EqualToOrGreaterThan/)
+        - [Between](../Between/)
+        - [Is null](../IsNull/)
+        - [Is not null](../IsNotNull/)
+        - [Start with](../StartWith/)
+        - [End with](../EndWith/)
+        - [Is date equals](../IsDateEquals/)
+        - [Is month equals](../IsMonthEquals/)
+        - [Is year equals](../IsYearEquals/)
+        - [Is day equals](../IsDayEquals/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

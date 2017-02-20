@@ -1,0 +1,84 @@
+title: Segments cards view
+content:
+  |
+    # Segments cards view
+
+    ![Segments cards view](/images/images/en/guide/MySegmentsCards.png)
+
+    **The Segments cards view**
+
+    The Segments cards view displays each available segment as an individual card, which includes the segment name, the creation date and time, the creator and the total number of available contacts.
+
+    ## Sorting the cards
+
+    The cards are sorted in the order that has been applied to the **Segment list** view. If you want the cards to be sorted in a different order:
+
+    - Click the **List** view icon and, for example, click the double-headed arrow to the right of the **Created on** column
+
+    - Click the **Cards** icon
+
+      The cards are sorted according to their creation date and time.
+
+    **Note:**
+
+    If you navigate away from the **Segments** tab and then return, the **Segments list** view is displayed again.
+
+    ## Total contacts
+
+    To display the current total number of available contacts for a segment:
+
+    - Click the circular **Reload** icon, positioned towards the bottom of the relevant card
+
+      The current total displays after a short delay, while the system applies the rules to the relevant database.
+
+    See [Getting started and navigating the UI](../NavigatingUI/) for more about UI page views and icons.
+
+    ## Viewing the details of a segment
+
+    Click the relevant segment name to display its details in the **Edit segment** page. See [Segment details](../SegmentDetails/) for more about the information that is displayed on an individual segment page.
+
+    ***Next page:***
+    
+    [Segment details](../SegmentDetails/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Viewing segments](../ViewingSegments/)
+      - [Segments list view](../SegmentsListView/)
+    - [Managing segments](../ManagingSegments/)
+        - [Segment details](../SegmentDetails/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

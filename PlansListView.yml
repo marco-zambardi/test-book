@@ -1,0 +1,75 @@
+title: Plans list view
+content:
+  |
+    # Plans list view
+
+    ![Plans list view](/images/images/en/guide/MyPlans.png)
+
+    **The Plans list view page**
+
+    The **Plans list** view is a table that is sorted by month order, starting with the current month. It displays the plan names and the date they are to be run.
+
+    The **Plans list** view provides the following predefined filters:
+
+    - **Ready**
+    - **Draft**
+    - **Archive**
+    - **Error**
+    - **Recurrence**
+
+    Click the relevant tab to see the saved plans in that filter category.
+
+    **Note:**
+
+    In addition to the plan names and the date they are to be run, the **Recurrence** tab displays two further columns:
+
+    - A **Status** column
+
+      Displays whether the plan is running or has been stopped.
+
+    - A control button column
+
+      Enables you to start or stop the relevant recurring plan. See [UI icons](../UIIcons/) for a description of each button.
+
+    See [Plan details](../PlanDetails/) for more about **Ready**, **Draft**, **Archive**, **Error** and **Recurrence** plan categories.
+
+    **Note:**
+
+    When the delivery date and time for a ready plan has passed, it is archived. The same is true for a recurring plan that has completed the defined number of repeats. Once archived, the relevant plans can only be re-opened or deleted by users with Admin permissions. See [Plan details](../PlanDetails/) and [Editing a plan](../EditingPlan/) for more information.
+
+    ## Viewing a plan
+
+    Click the relevant plan name to display its details in the **Edit plan** page. See [Plan details](../PlanDetails/) for more about the information that is displayed on an individual plan page.
+
+    ***Next page:***
+
+    [Plans calendar view](../PlansCalendarView/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Viewing plans](../ViewingPlans/)
+      - [Plans calendar view](../PlansCalendarView/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Plan details](../PlanDetails/)
+    - [Creating new plans](../CreatingNewPlans/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,99 @@
+title: Creating a new segment from existing segments
+content:
+  |
+    # Creating a new segment from existing segments
+
+    ![New segment from segments page](/images/images/en/guide/NewSegmentSegment.png)
+
+    **The New combined segment page**
+
+    **Note:**
+
+    See [Understanding segmentation](../UnderstandingSegmentation/) for more about segments.
+
+    The following describes how to create a segment by combining existing segments. See [Creating new segments](../CreatingNewSegments/) for more about creating an entirely new segment.
+
+    To create a new segment from existing segments, do the following:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Click **Create new combined segment**.
+
+      The **New combined segment** page displays, and the system automatically generates a segment name, consisting of the words **New combined segment** and the current date.
+
+    3. Select the system generated name and enter one of your choice.
+
+      Ensure that the name you use is unique, descriptive of the segment, and can easily be recognized by yourself and others in the future.
+
+    4. Under the first **Choose a segment**, click the downwards pointing arrow to the right of the box, and select the required segment.
+
+    5. In the area between the two **Choose a segment** boxes, select the appropriate **interaction condition**:
+
+      - **AND**
+
+        Only the contacts that conform with the rules for both segments are included in the total contacts.
+
+      - **OR**
+
+        The contacts that conform with the rules for either segment are included in the total contacts.
+
+      - **EXCLUDE**
+
+        The contacts that are defined by the second segment are removed from those identified by the first segment.
+
+    6. Under the second **Choose a segment**, click the downwards pointing arrow to the right of the box, and select the required segment.
+
+    7. Click **Add another segment** if required, then select a segment and the appropriate **interaction condition**, as described above.
+
+    8. When you are finished, click **Save** to store the new segment, or **Back to segments list** to abort the process.
+
+      You are returned to the **My segments** page and the new segment is added to the list.
+
+    ***Next page:***
+    
+    [Creating preset rules](../CreatingPresetRules/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+      - [Creating new segments](../CreatingNewSegments/)
+        - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Managing favorite preset rules](../ManagingFavoritePresetRules/)
+    - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

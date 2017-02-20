@@ -1,0 +1,55 @@
+title: Managing settings
+content:
+  |
+    # Managing settings
+
+    ![Settings tab](/images/images/en/guide/SettingsTab.png)
+
+    **The Settings page**
+
+    The **Settings** tab provides access to a series of pages where you can, for example, view the available segmentation conditions, set the local time zone, or create a DND policy.
+
+    **Note:**
+
+    You need the appropriate access permissions to be able to make changes on most pages in the settings section. See the relevant page for more details.
+
+    ## Using the settings section
+
+    Click the **Settings** tab to access the following:
+
+    - [Segmentation settings](../SegmentationSettings/)
+    - [Local settings](../LocalSettings/)
+    - [DND policy](../ManagingDND/)
+
+    The **Segmentation settings** page is displayed by default.
+
+    ***Next page:***
+    
+    [Segmentation settings](../SegmentationSettings/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Segmentation settings](../SegmentationSettings/)
+    - [Local settings](../LocalSettings/)
+    - [Managing DND policy settings](../ManagingDND/)
+      - [Viewing DND policies](../ViewingDND/)
+      - [Creating a new DND policy](../CreatingNewDND/)
+      - [Editing a DND policy](../EditingDND/)
+      - [Setting the default DND policy](../SettingDefaultDND/)
+      - [Setting the default DND policy to none](../SettingNoDND/)
+      - [Deleting a DND policy](../DeletingDND/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

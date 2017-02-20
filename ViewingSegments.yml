@@ -1,0 +1,60 @@
+title: Viewing segments
+content:
+  |
+    # Viewing segments
+
+    To access the **Segments management** page and view all currently available segments:
+
+    - Click the **Segments** tab, in the **Control bar**
+
+      The default [Segments list view](../SegmentsListView/) of the **My segments** page displays, showing all currently available segments.
+
+    - Click the **Cards** icon, positioned to the right of the page, to change to the [Segments cards view](../SegmentsCardsView/)
+
+    See [Getting started and navigating the UI](../NavigatingUI/) for more about UI page views and icons.
+
+    ***Next page:***
+    
+    [Segments list view](../SegmentsListView/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Segments list view](../SegmentsListView/)
+    - [Segments cards view](../SegmentsCardsView/)
+    - [Managing segments](../ManagingSegments/)
+        - [Segment details](../SegmentDetails/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+    - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

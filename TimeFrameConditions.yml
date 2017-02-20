@@ -1,0 +1,62 @@
+title: Time frame conditions
+content:
+  |
+    # Time frame conditions
+
+    Behavioral data can also be referred to as events or actions, because each item of data occurs at a precise moment in time. When creating or editing an event rule, meaning a rule that is applied to behavioral data, you can choose whether the applicable conditions are applied to:
+
+    - All the events, regardless of when they occurred
+
+      or:
+
+    - Only those events that happened in a given time frame
+
+    This is know as a time frame condition.
+
+    A time frame condition can be:
+
+    - **Anytime**
+
+      All events are taken into account.
+
+    - **In the date range**
+
+      Only events that occurred after a given date, before a given date, or between two dates are taken into account.
+
+    - **In the last**
+
+      Only events that occurred in the last **N** days, weeks, or months are taken into account.
+
+    Time frame conditions cannot be applied to demographic rules, as the data is not made up of events.
+
+    ***Next page:***
+    
+    [Analytical queries](../AnalyticalQueries/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Combining conditions within a rule](../CombiningConditionsInRule/)
+      - [Combining segment rules](../CombiningSegmentRules/)
+      - [Analytical queries](../AnalyticalQueries/)
+      - [Correlation-based queries](../CorrelationBasedQueries/)
+    - [Understanding Contactplan](../UnderstandingContactplan/)
+      - [Using the UI](../UsingUI/)
+      - [Understanding plans](../UnderstandingPlans/)
+      - [Reports and dashboard analysis](../ReportsAndDashboardAnalysis/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing settings](../ManagingSettings/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

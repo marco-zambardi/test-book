@@ -1,0 +1,55 @@
+title: Setting the default DND policy
+content:
+  |
+    # Setting the default DND policy
+
+    ![DND policy page](/images/images/en/guide/DNDSettings.png)
+
+    **The Do Not Disturb policy management page**
+
+    To set the default DND policy, do the following:
+
+
+    1. Click the **Settings** tab, in the **Control bar**
+
+      The **Segmentation settings** page displays.
+
+    2. Click the **Do Not Disturb Policy** tab.
+
+      The **Do Not Disturb policy** page displays.
+
+    3. Locate the name of the relevant policy and click the appropriate radio button in the **Default** column.
+
+    The policy is set as the default.
+
+    ***Next page:***
+
+    [Setting the default DND policy to none](../SettingNoDND/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing DND policy settings](../ManagingDND/)
+      - [Viewing DND policies](../ViewingDND/)
+      - [Creating a new DND policy](../CreatingNewDND/)
+      - [Editing a DND policy](../EditingDND/)
+      - [Setting the default DND policy to none](../SettingNoDND/)
+      - [Setting a DND policy as global](../SettingGlobalDND/)
+      - [Deleting a DND policy](../DeletingDND/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

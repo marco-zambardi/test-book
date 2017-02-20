@@ -1,0 +1,123 @@
+title: Segment Summary panel
+content:
+  |
+    # Segment Summary panel
+
+    ![Segment Summary panel](/images/images/en/guide/SummaryPanel.png)
+
+    **The Segment summary panel**
+
+    The **Segment Summary** panel, which is positioned to the right of the **Edit segment** and **New segment** pages, displays:
+
+    - The existing rule/s that define the segment
+
+    - The **interaction condition** or operator, which logically combines each rule with the previous one
+
+      **Note:**
+
+      If rules can be correlated, the **Correlate events** icon displays to the left of the **interaction condition**. If two rules have been correlated, an additional **Correlation rule** box displays beneath the relevant rules. See [Creating a segment by correlating rules](../CreatingCorrelationSegment/) for more details.
+
+    - The total number of contacts that the segment includes
+
+    - Two icons, positioned to the bottom right of the panel
+
+      - **Analytics**
+
+        Displays the segment dashboard. See [Managing dashboards](../ManagingDashboards/) for more details.
+
+      - **Download list**
+
+        Downloads the contact list in CSV format.
+
+    See [UI icons](../UIIcons/) for more details about the icons.
+
+    ### Segment rules
+
+    Each rule is displayed as a card, with the following details:
+
+    - The rule name
+
+    - The type of rule
+
+      A Demographic, Digital messages or Purchases rule.
+
+    - A **Pencil** icon
+
+      Click to edit the rule.
+
+    - A **Bin** icon
+
+      Click to delete the rule.
+
+      **Note:**
+
+      This action cannot be reversed.
+
+    - The number of contacts selected by the rule
+
+    #### Interaction condition controls
+
+    When there are two or more rules, each rule pair is separated by **interaction condition** controls. These determine how two rules interact together to define contacts. The available interaction conditions are:
+
+    - **AND**
+
+      Only the contacts that conform with both rules are included in the total contacts for segment.
+
+    - **OR**
+
+      The contacts that conform with either rule are included in the total contacts for segment.
+
+    - **EXCEPT**
+
+      The contacts that are defined by the second rule are removed from those identified by the first rule.
+
+    When there are three or more rules, the interaction conditions are applied in the order that the rules appear in the summary list. For example, the condition between rules one and two is applied before the one between rules two and three. This means that the condition between rules two and three is applied to the result of the one between rules one and two. See [Combining segment rules](../CombiningSegmentRules/) for more details.
+
+    When two rules are correlated, the **AND** interaction condition is implicitly applied. See [Creating a segment by correlating rules](../CreatingCorrelationSegment/) for more details.
+
+    See [Editing a segment](../EditingSegment/) for more about changing the properties of a segment.
+
+    ***Next page:***
+    
+    [Creating new segments](../CreatingNewSegments/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+        - [Segment details](../SegmentDetails/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+    - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

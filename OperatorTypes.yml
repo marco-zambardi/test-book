@@ -1,0 +1,70 @@
+title: Operator types
+content:
+  |
+    # Operator types
+
+    The UI includes a range of operator types, which are used to apply search criteria to condition input fields. Click the appropriate link for more about each operator type:
+
+    - [Equal to](../EqualTo/)
+    - [Like](../Like/)
+    - [Not like](../NotLike/)
+    - [Not equal to](../NotEqualTo/)
+    - [Greater than](../GreaterThan/)
+    - [Less than](../LessThan/)
+    - [Equal to or greater than](../EqualToOrGreaterThan/)
+    - [Equal to or less than](../EqualToOrLessThan/)
+    - [Between](../Between/)
+    - [Is null](../IsNull/)
+    - [Is not null](../IsNotNull/)
+    - [Start with](../StartWith/)
+    - [End with](../EndWith/)
+    - [Is date equals](../IsDateEquals/)
+    - [Is month equals](../IsMonthEquals/)
+    - [Is year equals](../IsYearEquals/)
+    - [Is day equals](../IsDayEquals/)
+
+    ***Next page:***
+
+    [Equal to](../EqualTo/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Equal to](../EqualTo/)
+    - [Like](../Like/)
+    - [Not like](../NotLike/)
+    - [Not equal to](../NotEqualTo/)
+    - [Greater than](../GreaterThan/)
+    - [Less than](../LessThan/)
+    - [Equal to or greater than](../EqualToOrGreaterThan/)
+    - [Equal to or less than](../EqualToOrLessThan/)
+    - [Between](../Between/)
+    - [Is null](../IsNull/)
+    - [Is not null](../IsNotNull/)
+    - [Start with](../StartWith/)
+    - [End with](../EndWith/)
+    - [Is date equals](../IsDateEquals/)
+    - [Is month equals](../IsMonthEquals/)
+    - [Is year equals](../IsYearEquals/)
+    - [Is day equals](../IsDayEquals/)
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

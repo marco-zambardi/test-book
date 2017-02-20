@@ -1,0 +1,62 @@
+title: Using Data types, input fields and operators
+content:
+  |
+    # Using Data types, input fields and operators
+
+    Contactplan processes various data types, while the UI includes a range of input field types, as well as several kinds of operator, which are used when defining segments. Click the appropriate link for more details:
+
+    - [Data types](../DataTypes/)
+    - [Input field types](../InputFieldTypes/)
+    - [Operator types](../OperatorTypes/)
+
+    ***Next page:***
+
+    [Data types](../DataTypes/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Data types](../DataTypes/)
+    - [Input field types](../InputFieldTypes/)
+      - [Checkbox](../Checkbox/)
+      - [Multiple options](../MultipleOptions/)
+      - [Autocomplete](../Autocomplete/)
+      - [Free text](../FreeText/)
+      - [Drill down](../DrillDown/)
+      - [Number](../Number/)
+      - [Calendar](../Calendar/)
+    - [Operator types](../OperatorTypes/)
+      - [Equal to](../EqualTo/)
+      - [Like](../Like/)
+      - [Not like](../NotLike/)
+      - [Not equal to](../NotEqualTo/)
+      - [Greater than](../GreaterThan/)
+      - [Less than](../LessThan/)
+      - [Equal to or greater than](../EqualToOrGreaterThan/)
+      - [Equal to or less than](../EqualToOrLessThan/)
+      - [Is null](../IsNull/)
+      - [Is not null](../IsNotNull/)
+      - [Start with](../StartWith/)
+      - [End with](../EndWith/)
+      - [Is date equals](../IsDateEquals/)
+      - [Is month equals](../IsMonthEquals/)
+      - [Is year equals](../IsYearEquals/)
+      - [Is day equals](../IsDayEquals/)
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

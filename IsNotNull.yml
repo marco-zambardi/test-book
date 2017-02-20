@@ -1,0 +1,59 @@
+title: Is not null operator type
+content:
+  |
+    # Is not null operator type
+
+    The **Is not null** operator is used to select all those contacts that have anything but no value entered for the relevant attribute. This means all contacts that have any value for the relevant attribute in the database are selected. If this operator is selected, no value is required in condition input field.
+
+    **Example:**
+
+    Setting the *Gender* condition to **Is not null**, selects all those contacts that have any gender information in the database.
+
+    The **Is not null** operator applies to [string](../String/), [numeric](../Numeric/) and [date](../Date/) data types.
+
+    See [Input field types](../InputFieldTypes/) for more about each input field.
+
+    ***Next page:***
+
+    [Start with](../StartWith/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+        - [Equal to](../EqualTo/)
+        - [Like](../Like/)
+        - [Not like](../NotLike/)
+        - [Not equal to](../NotEqualTo/)
+        - [Greater than](../GreaterThan/)
+        - [Less than](../LessThan/)
+        - [Equal to or greater than](../EqualToOrGreaterThan/)
+        - [Equal to or less than](../EqualToOrLessThan/)
+        - [Between](../Between/)
+        - [Is null](../IsNull/)
+        - [Start with](../StartWith/)
+        - [End with](../EndWith/)
+        - [Is date equals](../IsDateEquals/)
+        - [Is month equals](../IsMonthEquals/)
+        - [Is year equals](../IsYearEquals/)
+        - [Is day equals](../IsDayEquals/)
+      - [Input field types](../InputFieldTypes/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

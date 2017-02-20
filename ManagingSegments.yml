@@ -1,0 +1,123 @@
+title: Managing segments
+content:
+  |
+    # Managing segments
+
+    The filter that is used to identify a **Segment** from the selected database of potential contacts, is defined by creating and applying one or more rules. Three distinct types of rule are available:
+
+    - Demographic rules
+
+      For example, age, location, gender and similar.
+
+    - Digital message-related rules
+
+      For example, rules that identify when a link has been clicked, a message has been opened and similar.
+
+    - Purchase-related rules
+
+      For example, rules that identify when purchases have been made at a chosen location, are over a particular value, or are within a defined time frame and similar.
+
+    Regardless of the rule type, however, they can only provide usable segmentation, if the relevant data is available in the database. Contactplan can only apply rules to the data that exists.
+
+    **Note:**
+
+    Purchase events that are added to Contacthub are automatically available for segmentation activities in Contactplan within 24 hours.
+
+    See [Understanding segmentation](../UnderstandingSegmentation/) for more about segments, and the *Contactplan Product Overview* for a detailed description of rules, filters and query types.
+
+    ## Using the segmentation section
+
+    This section of the guide contains all of the information that you need to be able to create, manage, change or delete Contactplan segments. It includes the following topics:
+
+    - [Viewing segments](../ViewingSegments/)
+      - [Segments list view](../SegmentsListView/)
+      - [Segments cards view](../SegmentsCardsView/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+         - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+        - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+        - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+        - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Managing favorite preset rules](../ManagingFavoritePresetRules/)
+    - [Editing a segment](../EditingSegment/)
+      - [Changing the segment name](../ChangingSegmentName/)
+      - [Modifying an existing segment rule](../ModifyingExistingSegmentRule/)
+        - [Modifying correlated rules](../ModifyingCorrelatedRules/)
+      - [Deleting an existing segment rule](../DeletingExistingSegmentRule/)
+      - [Adding a new segment rule](../AddingNewSegmentRule/)
+      - [Modifying the interaction condition between segment rules](../ModifyingInteractionCondition/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    **Note:**
+
+    See [Using data types, input fields and operators](../InputBoxOperators/) for more about the fields and operators that are available in the UI.
+
+    ***Next page:***
+
+    [Viewing segments](../ViewingSegments/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Viewing segments](../ViewingSegments/)
+      - [Segments list view](../SegmentsListView/)
+      - [Segments cards view](../SegmentsCardsView/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Managing favorite preset rules](../ManagingFavoritePresetRules/)
+    - [Editing a segment](../EditingSegment/)
+      - [Changing the segment name](../ChangingSegmentName/)
+      - [Modifying an existing segment rule](../ModifyingExistingSegmentRule/)
+      - [Modifying correlated rules](../ModifyingCorrelatedRules/)
+      - [Deleting an existing segment rule](../DeletingExistingSegmentRule/)
+      - [Adding a new segment rule](../AddingNewSegmentRule/)
+      - [Modifying the interaction condition between segment rules](../ModifyingInteractionCondition/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+      - [Combining conditions within a rule](../CombiningConditionsInRule/)
+      - [Combining segment rules](../CombiningSegmentRules/)
+      - [Time frame conditions](../TimeFrameConditions/)
+      - [Analytical queries](../AnalyticalQueries/)
+      - [Correlation-based queries](../CorrelationBasedQueries/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,66 @@
+title: Relative date field type
+content:
+  |
+    # Relative date field type
+
+    Relative date input fields are only used for attributes that have a [date](../Date/) data type.
+
+    ## Use
+
+    The UI displays a box where either a numeric value can be typed in, or it can be selected by using the up or down arrows provided, together with a selectable drop-down list of the available time periods. Do the following:
+
+    - Enter the appropriate number in the first box
+
+      Negative numbers are used for earlier dates, while a positive number indicates a date in the future.
+
+    - Select the appropriate time period from the drop-down list
+
+      For example, days, weeks, months or years.
+
+    **Note:**
+
+    Date-based input fields allow either:
+
+    - An absolute date to be chosen, using the [Calendar](../Calendar/) input field
+
+      or:
+
+    - A relative date to be selected
+
+    Click the **opposing horizontal arrows** icon, to the right of the **calendar** or **relative date** field, to change to the other field type. See [UI icons](../UIIcons/) for a description of each icon displayed in the UI.
+
+    ***Next page:***
+    
+    [Operator types](../OperatorTypes/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Multiple options](../MultipleOptions/)
+        - [Autocomplete](../Autocomplete/)
+        - [Free text](../FreeText/)
+        - [Drill down](../DrillDown/)
+        - [Number](../Number/)
+        - [Calendar](../Calendar/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

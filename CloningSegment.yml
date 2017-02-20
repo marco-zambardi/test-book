@@ -1,0 +1,91 @@
+title: Cloning a segment
+content:
+  |
+    # Cloning a segment
+
+    ![Segments list view](/images/images/en/guide/MySegment.png)
+
+    **The Segments list view**
+
+    **Note:**
+
+    See [Using data types, input fields and operators](../InputBoxOperators/) for more about the fields and operators that are available in the UI, and [UI icons](../UIIcons/) for a description of each icon.
+
+    To clone a segment, do the following:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Locate the required segment using the **Segments list**.
+
+    3. Click the circular **Clone** icon, positioned towards the right of the segment entry in the table. See [UI icons](../UIIcons/) for more details.
+
+      The **New segment** page displays and the system automatically generates a segment name, consisting of the words **Copy of** and the current segment name. See [Creating new segments](../CreatingNewSegments/) for more about the **New segment** page.
+
+    4. Select the system generated name and enter one of your choice.
+
+      Ensure that the name you use is unique, descriptive of the segment, and can easily be recognized by yourself and others in the future.
+
+    5. Complete the steps given in the following pages, according to how you want to change the cloned segment:
+
+      - [Modifying an existing segment rule](../ModifyingExistingSegmentRule/)
+      - [Deleting an existing segment rule](../DeletingExistingSegmentRule/)
+      - [Adding a new segment rule](../AddingNewSegmentRule/)
+      - [Modifying the interaction condition between segment rules](../ModifyingInteractionCondition/)
+
+    6. When you have finished changing the cloned segment, click **Save**, to apply your changes.
+
+    The cloned segment is updated and you are returned to the **My segments** page.
+
+    **IMPORTANT:**
+
+    If you do not click **Save** all changes are discarded and the cloned segment remains unchanged.
+
+    ***Next page:***
+
+    [Deleting a segment](../DeletingSegment/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Editing a segment](../EditingSegment/)
+      - [Changing the segment name](../ChangingSegmentName/)
+      - [Modifying an existing segment rule](../ModifyingExistingSegmentRule/)
+      - [Modifying correlated rules](../ModifyingCorrelatedRules/)
+      - [Deleting an existing segment rule](../DeletingExistingSegmentRule/)
+      - [Adding a new segment rule](../AddingNewSegmentRule/)
+      - [Modifying the interaction condition between segment rules](../ModifyingInteractionCondition/)
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    #### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

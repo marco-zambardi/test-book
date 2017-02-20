@@ -1,0 +1,246 @@
+title: Creating a custom digital messages rule
+content:
+  |
+    # Creating a custom digital messages rule
+
+    ![Create custom digital rule](/images/images/en/guide/CreateCustomDigital.png)
+
+    **The Create custom digital messages rule page**
+
+    **Note:**
+
+    See [Using data types, input fields and operators](../InputBoxOperators/) for more about the fields and operators that are available in the UI.
+
+    When you click **Create custom rule**, the **new digital messages custom rule** page displays, with the name of the segment shown as its title and **Digital Messages** highlighted in a small box. The system automatically generates a **Rule name**, consisting of the words **New Digital Messages** and the time.
+
+    Do the following:
+
+    1. Select the system generated name and enter one of your choice.
+
+      Ensure that the name you use is unique, descriptive of the rule, and can easily be recognized by yourself and others in the future.
+
+    2. Under **Action**, click the downwards pointing arrow to the right of the box, and select the appropriate digital message action for the rule, for example, **Have not clicked**.
+
+      **Note:**
+
+      The following digital message actions are available:
+
+      - Have received
+
+        Contacts that have been included in the delivery list
+
+      - Have not received
+
+        Contacts that have not been included in the delivery list
+
+      - Have opened
+
+        Contacts that have opened messages
+
+      - Have not opened
+
+        Contacts that have not opened messages
+
+      - Have clicked
+
+        Contacts that have clicked on a link in messages
+
+      - Have not clicked
+
+        Contacts that have not clicked on a link in messages
+
+      If you select **Have clicked** or **Have not clicked**, related conditions are available in the **Add condition** panel. See **Link category conditions** below, for more details.
+
+    3. Under **Time frame**, select when the digital message action should have taken place. Three options are available:
+
+      - **Anytime**
+
+        The action can have taken place at any time. No further options are displayed.
+
+      - **In date range**
+
+        The action must have taken place:
+
+        - After the first date
+
+          Only the first date field should be completed.
+
+        - Before the second date
+
+          Only the second date field should be completed.
+
+        - Between two dates.
+
+          Both date fields should be completed.
+
+        Click the **Calendar** icon in each box and define the date range.
+
+      - **In last...**
+
+        The action must have taken place in the defined time period.
+
+          - Enter a numeric value in the first box, for example, **3**
+          - Click the downwards pointing arrow to the right of the second box, and select **days**, **weeks**, **months**, or **years**
+
+    See [Time frame conditions](../TimeFrameConditions/) for more about time frames.
+
+    2. Under **Match**, select whether the contacts that are to be identified by the rule, should match **ALL** of the conditions you define in the next steps, or **ANY** of them.
+
+      **Note:**
+
+      If you select **ALL**, the number of relevant contacts in the database, which is displayed to the right of the page at the top and bottom, reduces as each condition is applied. If you select **ANY**, the number of contacts increases. See [Combining conditions within a rule](../CombiningConditionsInRule/) for more details.
+
+    3. Define the conditions that apply to the rule, as follows:
+
+      - The system displays pre-configured digital messages conditions, for example:
+
+        - **Delivery ID**
+
+          The delivery identifier.
+
+        - **Subject**
+
+          The subject of the delivery.
+
+      - You can choose to:
+
+        - Apply none, one or any combination of these conditions
+
+          or:
+
+        - Delete them as appropriate, by clicking the **Bin** icon.
+
+        **Note:**
+
+        The conditions that are initially displayed are configured on a customer-by-customer basis, when the system is set up. They can be changed at any time, using the **Segmentation settings** page, which can be accessed through the **Settings** tab in the **Control bar**. See [Segmentation settings](../SegmentationSettings/) for more details.
+
+        To apply, for example, the **Delivery ID** condition:
+
+        - Click the downwards pointing arrow to the right of the first box, and select the appropriate operator, for example, **Not equal to**, from the drop-down list
+
+        - Enter a **numerical value**, if appropriate to the defined operator, in the remaining box or boxes
+
+          For example, If you have selected **Not equal to**, there is one numerical field. If you have selected **Between**, there are two numerical fields. If you have selected **is null**, the numerical field cannot be edited. See [Operator types](../OperatorTypes/) for more details.
+
+        To apply, for example, the **Subject** condition:
+
+        - Click the downwards pointing arrow to the right of the first box, and select the appropriate operator, for example, **Not equal to**, from the drop-down list
+        - Enter the required subject, for example, *Welcome*, in the **text** field
+
+          The system displays the number of contacts in the database that match the condition/s.
+
+          ***Tip:***
+
+          If, for example, you want to search for two subjects, such as *Welcome* and *Happy Birthday*, you can either create two rules, or set **Match** to **ANY** and add another **Subject** condition. See below for details about adding further conditions.
+
+      - Continue to define the pre-configured conditions as required.
+
+    4. Add further conditions, as follows:
+
+      - In the **Add condition** panel, click the downwards pointing arrow to the right of the box, and select the appropriate condition, for example, **Country code**, from the drop-down list
+
+        The new condition is added to the list. See **Link category conditions** below, for more about the **link.category** options.
+
+      - Click the downwards pointing arrow to the right of the first box, and select the appropriate operator, for example, **Equal to**, from the drop-down list
+
+        **Note:**
+
+        The first box may display a different list of operators, according to the type of condition being defined.
+
+      - Enter the appropriate value in the second box
+
+        **Note:**
+
+        Depending upon the condition that you are defining, the second box may be:
+
+          - [An automated search field](../Autocomplete/)
+          - [A free text search field](../FreeText/)
+          - [A drop-down list](../MultipleOptions/) or a [drill down enabled list](../DrillDown/)
+          - [A date and time field](../Calendar/)
+          - [A Relative date field](../RelativeDate/)
+          - [A numeric data field](../Number/)
+          - [A checkbox](../Checkbox/)
+
+          Date-based input fields allow either:
+
+          - An absolute date to be chosen, using the calendar widget
+
+            or:
+
+          - A relative date to be selected, such as one week ago, or two months in the future
+
+          Click the **opposing horizontal arrows** icon, to the right of the **calendar** or **relative date** field, to change to the other field type. See [UI icons](../UIIcons/) for a description of each icon displayed in the UI.
+
+    5. When you are finished, do the following:
+
+      - If you want to create a preset from the rule you have defined, click **Save as preset**, before you apply the rule to the segment
+      - Click **Add** to apply the rule to the segment, or **Cancel** to abort the process
+
+      You are returned to the **New segment** page and the rule is added to the **Rule list** area of the [Segment Summary panel](../SegmentSummaryPanel/).
+
+    ## Link category conditions
+
+    If you select **Have clicked** or **Have not clicked** under **Action**, a range of **link.category** conditions are available in the **Add condition** panel. For example, **link.category_name**. These conditions correlate with the **Link Category** labels that can be associated with an HTML link when you create a delivery directly in Contactsend, and can be used to further segment the database.
+
+    **Example:**
+
+    - Under **Action**, select **Have clicked**
+    - In the **Add condition** panel, select **link.category_name** from the drop-down list
+    - Click the downwards pointing arrow to the right of the first box, and select **Equal to**
+    - In the second box, enter **Hotel Promo**
+
+    All contacts from the relevant Contactsend delivery, who have clicked on the link named **Hotel Promo**, are selected.
+
+    ## % threshold condition
+
+    The **% threshold** condition is used to identify contacts whose activities satisfy a percentage range that is applied to a specific event type, while also meeting the other conditions defined for the rule. For example, contacts who have opened messages with the subject *Special Offer* on more than 10% of the occasions that they have opened messages.
+
+    **Note:**
+
+    The **% threshold** condition can only be applied if at least one other condition is set in addition the **Action** and **Time frame** fields.
+
+    ***Next page:***
+
+    [Creating a purchases rule](../CreatingPurchasesRule/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+      - [Creating new segments](../CreatingNewSegments/)
+        - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

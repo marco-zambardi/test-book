@@ -1,0 +1,113 @@
+title: Creating a digital messages rule
+content:
+  |
+    # Creating a digital messages rule
+
+    ![Create digital rule](/images/images/en/guide/CreateDigital.png)
+
+    **The Create Digital messages Rule page**
+
+    You have five options when creating a digital messages rule:
+
+    - Use a preset rule without modifying it
+
+    - Select a preset rule and fine tune it as required
+
+    - Use a favorite rule without modifying it
+
+      Favorite rules are presets that have been selected to become favorites. See [Managing favorite preset rules](../ManagingFavoritePresetRules/) for more details.
+
+    - Select a favorite rule and fine tune it as required
+
+    - Create a custom rule
+
+    To create a digital messages rule:
+
+    1. Click **Create digital messages rule** on the **New segment** page
+
+      The **Create Digital messages rule** page displays, with **My favorite rules** highlighted and shown by default. All preset rules that have been defined as favorites are listed. If no favorite rule has been selected, a hint that shows how to choose a favorite displays.
+
+    2. Do one of the following:
+
+      - Select a favorite, click **Select** to display the rule, then click **Add** to apply the rule to the segment
+      - Select a favorite, click **Select** to display the rule, fine tune it as required, then click **Add** to apply the rule to the segment
+      - Click **Preset rules**, choose a preset, click **Select** to display the rule, then click **Add** to apply the rule to the segment
+      - Click **Preset rules**, choose a preset, click **Select** to display the rule, fine tune it as required, then click **Add** to apply the rule to the segment
+
+        See [Editing a segment](../EditingSegment/) for more details.
+
+        **Note:**
+
+        Remember to change the name of the rule if you want to differentiate it from the preset.
+
+        Preset rules cannot be edited in the same way as a custom rule. Only the pre-defined condition/s can be changed.
+
+      - Click **Create custom rule** then follow the instructions given in [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+
+      Each time you add a rule, you are returned to the **New segment** page.
+
+      To close the **Create digital messages rule** page without adding a rule:
+
+      - Click the **X** icon, located in the top right-hand corner of the page
+
+        or:
+
+      - Click **Cancel**
+
+    3. Repeat the above steps as often as required, until you have created all of the digital messages rules.
+
+      **IMPORTANT:**
+
+      Ensure that you create all rules, including other types of rule such as Demographic rules and Purchases rules, in the correct order, so that you can apply the appropriate **interaction condition** between pairs of rules. See [Creating new segments](../CreatingNewSegments/) and [Combining segment rules](../CombiningSegmentRules/) for more about interaction conditions between rules.
+
+    **Note:**
+
+    If you create two digital messages rules, two purchases rules, or a combination of both, you can correlate the appropriate pair, to establish a relationship between the two events. See [Correlation-based queries](../CorrelationBasedQueries/) and [Creating a segment by correlating rules](../CreatingCorrelationSegment/) for more details.
+
+    See [Creating preset rules](../CreatingPresetRules/) for more about creating presets. See [Managing favorite preset rules](../ManagingFavoritePresetRules/) for more details about favorite preset rules.
+
+    ***Next page:***
+
+    [Creating a purchases rule](../CreatingPurchasesRule/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+        - [Segment Summary panel](../SegmentSummaryPanel/)
+      - [Creating new segments](../CreatingNewSegments/)
+        - [Example of creating a new segment](../ExampleNewSegment/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+      - [Editing a correlation](../EditingCorrelation/)
+      - [Creating a new segment from existing segments](../NewSegmentSegment/)
+      - [Creating preset rules](../CreatingPresetRules/)
+      - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Understanding segmentation](../UnderstandingSegmentation/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,153 @@
+title: Example of creating a new plan
+content:
+  |
+    # Example of creating a new plan
+
+    To create a one shot **draft** plan from the **Plans list** view, using:
+
+    - A segment called **Yellow_shoes_London_Example**
+    - A **One message per day** DND policy
+    - The **Clab Campaign Creator** consumer plug-in
+
+    Do the following:
+
+    1. Click the **Plans** tab, if not already selected.
+
+      The **My plans** page displays.
+
+    2. Click **Create new plan**
+
+      The **New plan** page displays
+
+    3. Select the system generated name and enter one of your choice.
+
+    4. In the **When** panel:
+
+      - Ensure that the **One shot** tab is selected
+
+      - Under **Date and time**:
+
+        - Click the first box and use the [Calendar](../Calendar/) widget to select a date, then enter the time of the delivery
+
+      - Under **Time zone**:
+
+        - Click the downwards pointing arrow to the right of the box, and select the appropriate time zone, if it needs to be changed
+
+    5. In the **Who** panel:
+
+      - Under **Segment**:
+
+        - Click the downwards pointing arrow to the right of the box, and select **Yellow_shoes_London_Example**
+
+      - Under **DND policy**:
+
+        - Click the downwards pointing arrow to the right of the box, and select **One message per day**
+
+      The **total contacts** field displays the number of contacts that the plan currently includes, after applying the segment and the DND policy.
+
+    6. In the **Action** panel:
+
+      - Click the downwards pointing arrow to the right of the box under **Consumer**, and select **Clab Campaign Creator**
+
+    7. Click **Create**, positioned to the right of **Delivery**
+
+        A new delivery template page displays.
+
+    8. Under **Basic information**:
+
+      - Select the system generated name to the right of the **Delivery name** box, and enter one of your choice
+      - Click the downwards pointing arrow to the right of the **Mail group** box, and select the appropriate Contactsend mail group from the drop-down list
+      - Click **Next**
+
+    9. Under **Delivery information**, enter the appropriate delivery details and click **Next**.
+
+    10. Under **Message body**, do one of the following to add your message to the delivery:
+
+      - If you have used PageBuilder to create your message:
+
+        - Click **From PageBuilder**
+
+          The available PageBuilder folders display.
+
+        - Click the PageBuilder folder that contains your message
+
+          The names of the individual HTML files display.
+
+        - Locate and click the required HTML message.
+
+          The message is imported into the appropriate box on the **HTML** tab, as described below.
+
+        or:
+
+      - If you have used a different method to create your message:
+
+        - Click **HTML**
+
+        - Copy and paste your message into the box provided
+
+          This box is only a receptacle for your HTML and is not an editor. Use an HTML editor of your choice to create your message body.
+
+    11. On the **HTML** tab, under **Alternative text**, enter the alternative text for the delivery into the box, if required.
+
+    12. Click **Preview** to view your message as it will be sent, if required.
+
+    13. Click **Labels** and enter the appropriate label **Key** and **Value** pair, if required.
+
+      - Further label pairs can be added by clicking the **+** icon, positioned to the right of the last **Key** and **Value** pair in the list
+      - To delete a label pair, click the **Bin** icon, positioned to the right of the appropriate pair
+
+    14. When finished, click **Next**.
+
+    15. Under **Test list**, do one of the following to add a test delivery:
+
+      - Under **Choose your test list**, click the downwards pointing arrow to the right of the box, and select the appropriate list.
+
+        or:
+
+      - Under **Or write your own**, manually enter your own test list.
+
+        **Note:**
+
+        If you enter your own test list, the recipients must already be in the relevant database.
+
+      When you have finished defining your test delivery, click **Send test**.
+
+      The test delivery is sent to the appropriate recipients.
+
+    16. Click **Apply** to finish defining your campaign.
+
+    17. Click **Save as draft**.
+
+    You are returned to the **My plans** page and the draft plan is added to the list.
+
+    ***Next page:***
+
+    [Editing a plan](../EditingPlan/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Creating new plans](../CreatingNewPlans/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Viewing plans](../ViewingPlans/)
+      - [Plan details](../PlanDetails/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

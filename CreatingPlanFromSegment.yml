@@ -1,0 +1,70 @@
+title: Creating a new plan directly from a saved segment
+content:
+  |
+    # Creating a new plan directly from a saved segment
+
+    ![Edit segment](/images/images/en/guide/EditSegment.png)
+
+    **The Edit segment page**
+
+    To create a new plan directly from an existing segment, do the following:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Locate the required segment using the **Segments list** or **Segments cards** view.
+
+    3. Click the required segment.
+
+      The **Edit segment** page displays.
+
+    4. Click **Start new plan**.
+
+      The **New plan** page displays.
+
+      **Note:**
+
+      When you click **Start new plan**, the relevant segment is automatically saved, to ensure that any edits that you may have carried out are retained.
+
+    5. Follow the instructions given under [Creating new plans](../CreatingNewPlans/).
+
+    ***Next page:***
+    
+    [Managing plans](../ManagingPlans/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+    - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Downloading a segment contact list](../DownloadingSegmentContactList/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

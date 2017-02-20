@@ -1,0 +1,55 @@
+title: Local settings
+content:
+  |
+    # Local settings
+
+    ![Local settings page](/images/images/en/guide/LocalSettings.png)
+
+    **The Time zones & week Local settings page**
+
+    **Local settings** enable you to set the first day of the week and the time zone that is applied locally by Contactplan.
+
+    To access the **Local settings** page and view the current settings:
+
+    - Click the **Settings** tab, in the **Control bar**
+
+      The **Segmentation settings** page displays.
+
+    - Click **Local settings** in the list of available views.
+
+      The **Local settings** page displays.
+
+    ## Changing local settings
+
+    To change the first day of the week, or the time zone, do the following:
+
+    1. Click the downwards pointing arrow to the right of the box next to the **First day of the week** or the **Time zone** field, and select the appropriate entry from the drop-down list, for example, **Sunday** or **UTC +03**.
+
+    2. Click **Update**.
+
+      The local settings are updated accordingly and applied automatically when you use other Contactplan UI pages.
+
+    ***Next page:***
+    
+    [Managing DND policy settings](../ManagingDND/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,66 @@
+title: Free text field type
+content:
+  |
+    # Free text field type
+
+    Free text input fields are used for all attributes that have several thousand different values stored in the database. Attributes such as **First name** or **Last name** are typical examples of this type of input field.
+
+    ## Use
+
+    The UI displays an editable text box containing the words *Type here*. Any required characters can be typed in the free text box, which are then used as the value for the condition. For example, for a **First name** attribute, type *John* to identify all contacts with that name.
+
+    Only one value can be entered at a time, in this type of input field.
+
+    ***Tip:***
+
+    If you need to define multiple values for an attribute with a free text input field, do the following:
+
+    1. Select the required attribute again from the list in the **Add condition** panel.
+
+      A new condition for the appropriate attribute displays.
+
+    2. Type the additional value for the attribute in the new free text box.
+
+    3. Under **Match**, select **ALL** or **ANY** as required.
+
+      See [Combining conditions within a rule](../CombiningConditionsInRule/) for more details.
+
+    **Note:**
+
+    Editable text boxes may be case-sensitive, depending upon the configuration settings that have been applied to your system.
+
+    ***Next page:***
+    
+    [Drill down](../DrillDown/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Multiple options](../MultipleOptions/)
+        - [Autocomplete](../Autocomplete/)
+        - [Drill down](../DrillDown/)
+        - [Number](../Number/)
+        - [Calendar](../Calendar/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

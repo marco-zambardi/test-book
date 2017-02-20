@@ -1,0 +1,46 @@
+title: Number field type
+content:
+  |
+    # Number field type
+
+    Number input fields are only used for attributes that have a [numeric](../Numeric/) data type.
+
+    ## Use
+
+    The UI displays a widget where either a numeric value can be typed in, or it can be selected by using the up or down arrows provided.
+
+    ***Next page:***
+    
+    [Calendar](../Calendar/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Multiple options](../MultipleOptions/)
+        - [Autocomplete](../Autocomplete/)
+        - [Free text](../FreeText/)
+        - [Drill down](../DrillDown/)
+        - [Calendar](../Calendar/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

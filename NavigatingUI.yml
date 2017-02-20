@@ -1,0 +1,67 @@
+title: Getting started and navigating the UI
+content:
+  |
+    # Getting started and navigating the UI
+
+    ![log in](/images/images/en/guide/LogOn.png)
+
+    **The Contactlab log-in page**
+
+    ## Starting the UI
+
+    To start the UI, do the following:
+
+    1. On the log-in page, select the appropriate language, enter your **Username** and **Password**, and click **SIGN IN**
+
+      The start page displays, with the **Plans** tab selected.
+
+    2. Click the **Dashboard**, **Segments**, **Reports** or **Settings** tab, as required
+
+      See [Managing plans](../ManagingPlans/), [Managing dashboards](../ManagingDashboards/), [Managing segments](../ManagingSegments/), [Managing reports](../ManagingReports/) and [Managing settings](../ManagingSettings/) for more about each tab.
+
+    ## Navigating the UI
+
+    The Contactplan UI appearance may differ, according to the size of your browser window. There are two standard views:
+
+    - [UI normal view](../UINormalView/)
+
+      Displays the UI as it is generally intended to be used.
+
+    - [UI compact view](../UICompactView/)
+
+      Displays when the browser window is not wide enough for the **normal view**.
+
+    ### UI icons
+
+    See [UI icons](../UIIcons/) for a description of each icon displayed in the UI.
+
+    ***Next page:***
+
+    [UI normal view](../UINormalView/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [UI normal view](../UINormalView/)
+    - [UI compact view](../UICompactView/)
+    - [UI icons](../UIIcons/)
+    - [Selecting a database](../SelectingADatabase/)
+    - [Changing the UI display language](../ChangingLanguage/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

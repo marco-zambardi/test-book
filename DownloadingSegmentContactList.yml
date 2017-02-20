@@ -1,0 +1,78 @@
+title: Downloading a segment contact list
+content:
+  |
+    # Downloading a segment contact list
+
+    ![Edit segment](/images/images/en/guide/EditSegment.png)
+
+    **The Edit segment page**
+
+    **Note**
+
+    The segment contact list only includes the contact ID and email address. However, due to the sensitive nature of this information, only users with Admin permissions can download a list.
+
+    To download a segment contact list, do the following:
+
+    1. Click the **Segments** tab.
+
+      The **My segments** page displays.
+
+    2. Locate the required segment using the **Segments list** or **Segments cards** view.
+
+    3. Click the required segment.
+
+      The **Edit segment** page displays.
+
+    4. Click the **Download list** icon, positioned at the bottom of the **Segment Summary** panel.
+
+      An Explorer window displays.
+
+      See [UI icons](../UIIcons/) for a description of each icon displayed in the UI.
+
+    5. Navigate to where you want to store the file, and click **Save**
+
+    6. The file is saved and the Explorer window closes.
+
+      **Note:**
+
+      Depending upon the browser you use and your browser settings, the file may be automatically saved in the download folder that is defined for your device.
+
+    ***Next page:***
+    
+    [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Managing segments](../ManagingSegments/)
+      - [Viewing segments](../ViewingSegments/)
+      - [Segment details](../SegmentDetails/)
+    - [Creating new segments](../CreatingNewSegments/)
+      - [Creating a demographic rule](../CreatingDemographicRule/)
+      - [Creating a custom demographic rule](../CreatingCustomDemographicRule/)
+      - [Creating a digital messages rule](../CreatingDigitalMessagesRule/)
+      - [Creating a custom digital messages rule](../CreatingCustomDigitalMessagesRule/)
+      - [Creating a purchases rule](../CreatingPurchasesRule/)
+      - [Creating a custom purchases rule](../CreatingCustomPurchasesRule/)
+      - [Creating a segment by correlating rules](../CreatingCorrelationSegment/)
+    - [Editing a segment](../EditingSegment/)
+    - [Cloning a segment](../CloningSegment/)
+    - [Deleting a segment](../DeletingSegment/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+
+    ### Also see:
+
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

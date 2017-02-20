@@ -1,0 +1,47 @@
+title: Viewing plans
+content:
+  |
+    # Viewing plans
+
+    To access the **Plans management** page and view all currently available plans:
+
+    - Click the **Plans** tab, in the **Control bar**, if not already selected
+
+      The default [Plans list view](../PlansListView/) of the **My plans** page displays, showing all currently available plans.
+
+    - Click the **Calendar** icon, positioned to the right of the page, to change to the [Plans calendar view](../PlansCalendarView/)
+
+    See [Getting started and navigating the UI](../NavigatingUI/) for more about UI page views and icons.
+
+    ***Next page:***
+    
+    [Plans list view](../PlansListView/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Plans list view](../PlansListView/)
+    - [Plans calendar view](../PlansCalendarView/)
+    - [Creating a new plan directly from a saved segment](../CreatingPlanFromSegment/)
+    - [Managing plans](../ManagingPlans/)
+      - [Plan details](../PlanDetails/)
+    - [Creating new plans](../CreatingNewPlans/)
+    - [Editing a plan](../EditingPlan/)
+    - [Deleting a plan](../DeletingPlans/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)

@@ -1,0 +1,74 @@
+title: Calendar field type
+content:
+  |
+    # Calendar field type
+
+    Calendar input fields are only used for attributes that have a [date](../Date/) data type.
+
+    A graphical calendar widget is provided that is used to select the required date.
+
+    ## Use
+
+    The UI displays an editable text box containing the text *DD/MM/YYYY*. Do one of the following:
+
+    - Click the text box to display the calendar widget
+
+      The widget shows one month at a time and opens at the current month.
+
+    - Scroll the calendar forwards or backwards using the arrows provided, until the relevant month is displayed
+
+    - Click the appropriate date in the calendar panel
+
+    - The calendar widget closes and the selected date is displayed in the text box
+
+      or:
+
+    - Type the desired date in the text box, using the DD/MM/YYYY format
+
+    **Note:**
+
+    Date-based input fields allow either:
+
+    - An absolute date to be chosen, using the calendar widget
+
+      or:
+
+    - A [relative date](../RelativeDate/) to be selected, such as one week ago, or two months in the future
+
+    Click the **opposing horizontal arrows** icon, to the right of the **calendar** or **relative date** field, to change to the other field type. See [UI icons](../UIIcons/) for a description of each icon displayed in the UI.
+
+    ***Next page:***
+    
+    [Relative date](../RelativeDate/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+      - [Data types](../DataTypes/)
+      - [Operator types](../OperatorTypes/)
+      - [Input field types](../InputFieldTypes/)
+        - [Checkbox](../Checkbox/)
+        - [Multiple options](../MultipleOptions/)
+        - [Autocomplete](../Autocomplete/)
+        - [Free text](../FreeText/)
+        - [Drill down](../DrillDown/)
+        - [Number](../Number/)
+        - [Relative date](../RelativeDate/)
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+
+    ### Also see:
+
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Glossary](../Glossary/)

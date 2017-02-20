@@ -1,0 +1,51 @@
+title: Changing the UI display language
+content:
+  |
+    # Changing the UI display language
+
+    ![Changing UI language](/images/images/en/guide/SettingsDatabaseLanguage.png)
+
+    **The User information panel Settings page**
+
+    To change the language that the UI displays, do the following:
+
+    1. In the [UI normal view](../UINormalView/), click the **User information** panel, positioned to the top right of the view.
+
+      The **Settings** and **Sign out** buttons display.
+
+    2. Click **Settings**.
+
+      The **Settings** page displays.
+
+    3. Under **Language**, click the downwards pointing arrow to the right of the two letter code that represents the current language, and select the required one, for example, **IT** for Italian.
+
+      The display language changes accordingly.
+      
+    4. Click the **X** icon, located in the top right-hand corner of the page, to close the **Settings** page.
+
+    ***Next page:***
+
+    [Using data types, input fields and operators](../InputBoxOperators/)
+
+    ----------
+
+    ## Related Pages:
+
+    - [Getting started and navigating the UI](../NavigatingUI/)
+
+    ### Also see:
+
+    - [Managing segments](../ManagingSegments/)
+    - [Managing plans](../ManagingPlans/)
+    - [Managing reports](../ManagingReports/)
+    - [Managing dashboards](../ManagingDashboards/)
+    - [Managing settings](../ManagingSettings/)
+      - [Segmentation settings](../SegmentationSettings/)
+      - [Local settings](../LocalSettings/)
+      - [Managing DND policy settings](../ManagingDND/)
+
+    ### Other links:
+
+    - [Contactplan](../Home/)
+    - [Using data types, input fields and operators](../InputBoxOperators/)
+    - [Glossary](../Glossary/)
