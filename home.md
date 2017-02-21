@@ -2,7 +2,7 @@
 title: Home
 ```
 
-```
+```markdown
 content:
   |
     # Introduction
@@ -185,7 +185,6 @@ content:
         - [Setting the default DND policy to none](../SettingNoDND/)
         - [Setting a DND policy as global](../SettingGlobalDND/)
         - [Deleting a DND policy](../DeletingDND/)
-
 ```
 
 
