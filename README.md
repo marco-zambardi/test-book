@@ -1,47 +1,57 @@
-# Bootstrap project
+# Bootstra
 
-Clone the locales repo into locales folder
+Clone the locales repo into loca
+
 ```bash
   git clone git@github.com:contactlab/explore.contactlab.com.contents.git locales
 ```
 
 Run
+
 ```bash
   bundle
 ```
+
 to install middleman and its dependencies.
 
 Run
+
 ```bash
   npm install
 ```
+
 to install all the node.js modules
 
 Run
+
 ```bash
   brew update
   brew install elasticsearch
 ```
+
 to install elasticsearch in your Mac OSX enviroment.
 
 Get elasticsearch configuration file information from homebrew:
+
 ```bash
 brew info elasticsearch
 ```
 
 Configure elasticsearch:
+
 ```bash
 nano /usr/local/etc/elasticsearch/elasticsearch.yml
 ```
 
 Add the following lines to elasticsearch.yml:
+
 ```
 http.cors.allow-origin: "/.*/"
 http.cors.enabled: true
 discovery.zen.ping.multicast.enabled: false
 ```
 
-You can run elasticsearch using LaunchRocket (if you installed it) or by command line, for example `brew services start elasticsearch` or `launchctl load ~/Library/LaunchAgents/homebrew.mxcl.elasticsearch.plist` or `elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml`
+You can run elasticsearch using LaunchRocket \(if you installed it\) or by command line, for example `brew services start elasticsearch` or `launchctl load ~/Library/LaunchAgents/homebrew.mxcl.elasticsearch.plist` or `elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml`
 
 # Aggiornamento pacchetti
 
@@ -71,6 +81,7 @@ Si passa attraverso `code.welaika.com`. Aggiungere queste righe ad `~/.ssh/confi
 ```
 
 FYI: Per impostare automaticamente la password e non inserirla ogni volta basta usare ssh-copy-id
+
 ```bash
 ssh-copy-id contactlab
 ```
@@ -91,7 +102,7 @@ It loads the `enviroments/staging.rb` configuration file and run the build. Than
 */10 * * * * /usr/bin/bash -l -c "cd /home/middleman/contactlab-middleman/ && ./build-site.sh"
 ```
 
-Each 10 minutes run the command (with rbenv and all the stuff of .bash_profile) "cd /home/middleman/contactlab-middleman/ && ./build-site.sh"
+Each 10 minutes run the command \(with rbenv and all the stuff of .bash\_profile\) "cd /home/middleman/contactlab-middleman/ && ./build-site.sh"
 
 ## Node and other commands
 
@@ -101,5 +112,5 @@ Node should be accessible by crontab. In the staging enviroment we added the pat
 PATH=$PATH:$HOME/.local/bin:$HOME/bin:$HOME/contactlab-middleman/bin:/usr/local/bin
 ```
 
-(You can get the path `node`, `/usr/local/bin` in this case, using the command `which node` )
+\(You can get the path `node`, `/usr/local/bin` in this case, using the command `which node` \)
 
